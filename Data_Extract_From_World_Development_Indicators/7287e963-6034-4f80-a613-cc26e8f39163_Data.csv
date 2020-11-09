@@ -1,0 +1,936 @@
+﻿Country Name,Country Code,Series Name,Series Code,1960 [YR1960],1965 [YR1965],1970 [YR1970],1975 [YR1975],1980 [YR1980],1985 [YR1985],1990 [YR1990],1995 [YR1995],2000 [YR2000],2005 [YR2005],2010 [YR2010],2015 [YR2015],2018 [YR2018]
+United States,USA,"2005 PPP conversion factor, GDP (LCU per international $)",PA.NUS.PPP.05,..,..,..,..,..,..,..,..,..,1,..,..,..
+United States,USA,"2005 PPP conversion factor, private consumption (LCU per international $)",PA.NUS.PRVT.PP.05,..,..,..,..,..,..,..,..,..,1,..,..,..
+United States,USA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..,..,..,..,..,..,..,..,100,100,100,100,..
+United States,USA,Access to electricity (% of population),EG.ELC.ACCS.ZS,..,..,..,..,..,..,100,100,100,100,100,100,..
+United States,USA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,..,..,..,..,..,..,100,100,100,100,100,100,..
+United States,USA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,..,..,..,..,..,..,100,100,100,100,100,100,..
+United States,USA,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Adjusted net national income (annual % growth),NY.ADJ.NNTY.KD.ZG,..,..,..,-0.45080218246153,-2.43005547342601,4.25066537828623,1.21768386051795,3.27148288766921,3.59713179891652,2.5171568336751,3.19978278462472,3.1843378764558,..
+United States,USA,Adjusted net national income (constant 2010 US$),NY.ADJ.NNTY.KD,..,..,4304612745663.08,4683396504767.5,5213766276604.83,6393894272516.73,7523643142198.71,8639173325396.36,10874121860364.4,12232125118732.1,12655135542015.3,14617246145630.8,..
+United States,USA,Adjusted net national income (current US$),NY.ADJ.NNTY.CD,..,..,937510234909.97,1416531842515.86,2302714526273.35,3613579716247.4,4978802874389.38,6442201380022.6,8812709777888.21,11117320814516.6,12655135542015.3,15772023624639.7,..
+United States,USA,Adjusted net national income per capita (annual % growth),NY.ADJ.NNTY.PC.KD.ZG,..,..,..,-1.42752033785764,-3.3618489804022,3.33095090379427,0.0807117644174582,2.04903223811523,2.45072529228447,1.57658405102643,2.34751187345614,2.42632117660099,..
+United States,USA,Adjusted net national income per capita (constant 2010 US$),NY.ADJ.NNTY.PC.KD,..,..,20992.7859550898,21685.1018635084,22945.3901489925,26873.6834977418,30140.0237245715,32444.187373333,38538.5204989774,41392.3453373667,40911.9571730115,45573.1256739598,..
+United States,USA,Adjusted net national income per capita (current US$),NY.ADJ.NNTY.PC.CD,..,..,4572.06091581633,6558.83764413079,10134.0720707376,15187.9579876238,19945.2889933595,24193.5172264423,31232.7561515209,37619.9538440025,40911.9571730115,49173.4494731223,..
+United States,USA,"Adjusted net savings, excluding particulate emission damage (% of GNI)",NY.ADJ.SVNX.GN.ZS,..,..,14.9850370486155,11.0177072696003,8.66132742574106,9.5838773992564,6.70701846559752,7.73018183324444,9.03680723389365,5.72369791370536,3.2242830467915,7.57035518053132,..
+United States,USA,"Adjusted net savings, excluding particulate emission damage (current US$)",NY.ADJ.SVNX.CD,..,..,161838400125.047,186199252856.246,246847831633.62,414023503647.877,397055493163.373,587493819326.578,939827952324.939,755528124609.107,486866740065.517,1415656418759.36,..
+United States,USA,"Adjusted net savings, including particulate emission damage (% of GNI)",NY.ADJ.SVNG.GN.ZS,..,..,..,..,..,..,6.55809476573131,7.59435477419061,8.91081030047347,5.58876838577367,3.09014169394825,7.45161905615034,..
+United States,USA,"Adjusted net savings, including particulate emission damage (current US$)",NY.ADJ.SVNG.CD,..,..,..,..,..,..,388239210131.294,577170962838.487,926724271249.24,737717426922.125,466611395786.185,1393452763500.11,..
+United States,USA,Adjusted savings: carbon dioxide damage (% of GNI),NY.ADJ.DCO2.GN.ZS,..,..,0.665078972678005,0.688318914769796,0.716375250516895,0.673060476840805,0.713300358547363,0.772318019684536,0.791468149854605,0.824553717143585,0.85599146112456,0.854990562958635,..
+United States,USA,Adjusted savings: carbon dioxide damage (current US$),NY.ADJ.DCO2.CD,..,..,7182852904.92246,11632589659.6096,20416694639.7315,29076212599.5228,42227381226.0039,58696169496.0247,82312687584.8789,108841090662.953,129254710629.809,159883235273.265,..
+United States,USA,Adjusted savings: consumption of fixed capital (% of GNI),NY.ADJ.DKAP.GN.ZS,..,..,12.74933546,14.15570264,15.046870013614,14.8556237777778,15.0514123451689,14.8073176614474,14.5985498760577,15.0045751781818,15.8423413509934,15.5849783150802,..
+United States,USA,Adjusted savings: consumption of fixed capital (current US$),NY.ADJ.DKAP.CD,..,..,137692822968,239231374616,428835795388,641762947200,891043610834,1125356142270,1518249187110,1980603923520,2392193544000,2914390944920,..
+United States,USA,Adjusted savings: education expenditure (% of GNI),NY.ADJ.AEDU.GN.ZS,..,..,7.4547239,7,6.3,6.1,4.4,4.7893238,4.51375828866931,4.44733636935943,4.84096628264901,4.40382903418674,..
+United States,USA,Adjusted savings: education expenditure (current US$),NY.ADJ.AEDU.CD,..,..,80511018120,118300000000,179550000000,263520000000,260480000000,363988608800,469430862021.608,587048400755.444,730985908680,823516029392.92,..
+United States,USA,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,..,..,0.337797109915571,1.91654589805016,4.07929820515905,1.47609629752094,0.80359278087597,0.400648689248692,0.655606828873041,0.755294725781621,0.27640481527991,0.0215892332434306,..
+United States,USA,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,..,..,3648208787.08817,32389625677.0478,116259998847.033,63767360052.9046,47572692627.8574,30449300382.9006,68183110202.7963,99698903803.174,41737127107.2665,4037186616.52153,..
+United States,USA,Adjusted savings: gross savings (% of GNI),NY.ADJ.ICTR.GN.ZS,..,..,21.48596197,20.87497076,22.25028472,20.51606608,18.95419897,18.88290178,20.49361214,17.86998963,15.38002646,19.68075361,..
+United States,USA,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,..,..,0.106364197679843,0.109299242076734,0.0768308593549282,0.0197606273449342,0.0304908768505048,0.0262260174275902,0.00824927691340146,0.0180027133349233,0.0724091846185957,0.0510601273998831,..
+United States,USA,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,..,..,1148733334.94231,1847157191.0968,2189679491.61545,853659101.301157,1805059909.54988,1993177324.49686,857924798.993751,2376358160.20988,10933786877.408,9548243823.77814,..
+United States,USA,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,..,..,0.444161307595414,2.02584514012689,4.15612906451398,1.49669760538427,0.847187749605119,0.426874706676282,0.663856105786443,0.773297439116544,0.348813999898506,0.0726493606433137,..
+United States,USA,Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,..,..,0,0,0,0.00084068051839823,0.0131040918786438,0,0,0,0,0,..
+United States,USA,Adjusted savings: net forest depletion (current US$),NY.ADJ.DFOR.CD,..,..,0,0,0,36317398.3948035,775762239.215711,0,0,0,0,0,..
+United States,USA,Adjusted savings: net national savings (% of GNI),NY.ADJ.NNAT.GN.ZS,..,..,8.63955342888889,6.73187132449704,7.23383174077193,5.65363548148148,3.86750657375,4.14005075960526,5.97837320086538,2.87421270060606,-0.411877774834437,4.09416606994652,..
+United States,USA,Adjusted savings: net national savings (current US$),NY.ADJ.NNAT.CD,..,..,93307177032,113768625384,206164204612,244237052800,228956389166,314643857730,621750812890,379396076480,-62193544000,765609055080,..
+United States,USA,Adjusted savings: particulate emission damage (% of GNI),NY.ADJ.DPEM.GN.ZS,..,..,..,..,..,..,0.148923699866206,0.13582705905383,0.125996933420181,0.134929527931686,0.134141352843256,0.118736124380978,..
+United States,USA,Adjusted savings: particulate emission damage (current US$),NY.ADJ.DPEM.CD,..,..,..,..,..,..,8816283032.07942,10322856488.0911,13103681075.6988,17810697686.9826,20255344279.3316,22203655259.2429,..
+United States,USA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,81.741,70.7826,63.5754,56.188,51.9888,52.5582,57.0142,54.6384,46.1652,40.8214,32.5946,23.0908,..
+United States,USA,Adults (ages 15+) and children (ages 0-14) newly infected with HIV,SH.HIV.INCD.TL,..,..,..,..,..,..,..,..,..,..,41000,39000,..
+United States,USA,Adults (ages 15+) newly infected with HIV,SH.HIV.INCD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Age dependency ratio (% of working-age population),SP.POP.DPND,66.1317353094272,65.3668336343763,61.6769779906992,55.607045110682,52.0443180765662,50.9029775938533,52.2122880402135,53.0872508390412,51.5992648229178,49.6845677496855,49.670515300289,51.2095510574753,52.7106770866542
+United States,USA,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.1441107356828,15.6444737078794,16.2498537391526,16.6973405773145,17.5710651027506,18.3070471197091,19.2210388000996,19.384689378846,18.6978580097721,18.4287320889428,19.4298859710879,22.1414402461905,24.1399754701329
+United States,USA,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,50.9876245737444,49.7223599264969,45.4271242515466,38.9097045333675,34.4732529738156,32.5959304741442,32.9912492401139,33.7025614601952,32.9014068131456,31.2558356607427,30.2406293292011,29.0681108112848,28.5707016165213
+United States,USA,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Agricultural land (% of land area),AG.LND.AGRI.ZS,..,47.589791854097,47.4289657341008,46.9658127123604,46.7479932219379,47.1013084455004,46.615336239049,45.8719112213614,45.2305848555761,44.945164332367,44.6493314508353,44.3690679995015,..
+United States,USA,Agricultural land (sq. km),AG.LND.AGRI.K2,..,4358730,4344000,4301580,4281630,4313990,4269480,4201390,4143990,4117840,4084261.875,4058625,..
+United States,USA,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,..,4800000,5270000,5120000,4726000,4670000,4426699,4344109,4503625,4470905,..,..,..
+United States,USA,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,..,271.186440677966,279.227488277214,274.572053713158,250.377473444412,248.715149255719,238.409864495142,238.898641105593,256.809965330049,270.77521727281,..,..,..
+United States,USA,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,..,..,30.8216375767833,33.6806739802947,31.3639668379497,30.4116516638085,27.0901931367058,30.8349144175777,33.2769008202366,35.3987713050031,..,..,..
+United States,USA,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,..,..,183159.122381914,198670.507573866,190553.348722306,183038.911985481,172736.823909165,186398.599399978,185222.224886511,190585.568755285,..,..,..
+United States,USA,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,..,..,39.93595608098,43.6276391232534,41.7033972449433,43.0007759512488,46.1274345393231,46.2366001258016,51.9339319047619,55.8606487412195,..,..,..
+United States,USA,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,..,..,124198.86655,151481.92532,157104.28744,153341.75606,153074.76794,164068.07877,169044.94835,178976.06619,..,..,..
+United States,USA,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,..,..,..,..,..,..,..,..,1.15045636546451,1.14225527731252,1.04248133891985,1.04256091720468,..
+United States,USA,"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,..,..,..,..,..,..,..,..,13.8065847720007,12.1581419137086,-2.66993316917123,7.6072694495293,..
+United States,USA,"Agriculture, forestry, and fishing, value added (constant 2010 US$)",NV.AGR.TOTL.KD,..,..,..,..,..,..,..,..,153096307900,177157932200,156289352000,177790268400,..
+United States,USA,"Agriculture, forestry, and fishing, value added (constant LCU)",NV.AGR.TOTL.KN,..,..,..,..,..,..,..,..,153096307900,177157932200,156289352000,177790268400,..
+United States,USA,"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,..,..,..,..,..,..,..,..,117948761000,148911711000,156289352000,189947276000,..
+United States,USA,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,..,..,..,..,..,..,..,..,117948761000,148911711000,156289352000,189947276000,..
+United States,USA,"Agriculture, forestry, and fishing, value added per worker (constant 2010 US$)",NV.AGR.EMPL.KD,..,..,..,..,..,..,..,..,67150.606109136,87082.2449898893,77821.5107673866,81920.3462552041,..
+United States,USA,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.26126148522724,1.47222819936187,1.81068382134833,4.64652903858906,5.4272868628859,7.83031003085784,9.45111635256245,10.2440671762868,10.2970525907123,10.3545530514855,11.3372473990171,11.8743317712829,..
+United States,USA,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,..,..,..,..,22.62,..,34.81,..,35.13,34.12,36.06,..,..
+United States,USA,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,..,..,..,..,..,..,10.85,..,11.44,11.64,12.79,..,..
+United States,USA,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,..,..,..,..,..,..,54.34,..,53.42,54.25,51.15,..,..
+United States,USA,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,..,..,..,..,517.6,..,465.1,..,473.5,478.6,418.7,..,..
+United States,USA,Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Aquaculture production (metric tons),ER.FSH.AQUA.MT,104421,132578,168681,218459,168365,323573,315727,413454,456830,513920,496699,426002,..
+United States,USA,Arable land (% of land area),AG.LND.ARBL.ZS,..,19.3253382480107,20.6065972555836,20.3595168010342,20.6087809096229,20.5006900346764,20.2726073702691,19.8536733428249,19.1409660857113,18.0218775103908,17.045921486605,16.6454038406458,..
+United States,USA,Arable land (hectares per person),AG.LND.ARBL.HA.PC,..,0.910948364152895,0.920425062910871,0.863404221824024,0.830696446253713,0.789180578672181,0.743825689139222,0.682891564455193,0.621514394417334,0.558733419911888,0.504083589086902,0.474718560445495,..
+United States,USA,Arable land (hectares),AG.LND.ARBL.HA,..,177000000,188735000,186472000,188755000,187765000,185676000,181839000,175368000,165115000,155926203.125,152262500,..
+United States,USA,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5,..,..,..,..,..,..,..,..,..,169.36679682505,..,..,..
+United States,USA,Average grace period on new external debt commitments (years),DT.GPA.DPPG,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Average grace period on new external debt commitments, official (years)",DT.GPA.OFFT,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Average grace period on new external debt commitments, private (years)",DT.GPA.PRVT,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Average grant element on new external debt commitments (%),DT.GRE.DPPG,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Average grant element on new external debt commitments, official (%)",DT.GRE.OFFT,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Average grant element on new external debt commitments, private (%)",DT.GRE.PRVT,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Average interest on new external debt commitments (%),DT.INR.DPPG,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Average interest on new external debt commitments, official (%)",DT.INR.OFFT,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Average interest on new external debt commitments, private (%)",DT.INR.PRVT,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Average maturity on new external debt commitments (years),DT.MAT.DPPG,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Average maturity on new external debt commitments, official (years)",DT.MAT.OFFT,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Average maturity on new external debt commitments, private (years)",DT.MAT.PRVT,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Average transaction cost of sending remittances from a specific country (%),SI.RMT.COST.OB.ZS,..,..,..,..,..,..,..,..,..,..,..,6.04455275496214,..
+United States,USA,Average transaction cost of sending remittances to a specific country (%),SI.RMT.COST.IB.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS,..,..,..,..,..,..,..,..,..,..,12.7393075429443,11.7110529820643,..
+United States,USA,Bank liquid reserves to bank assets ratio (%),FD.RES.LIQU.AS.ZS,..,..,..,..,..,..,..,..,..,0.67189233154892,7.16041821253831,14.0160830773537,9.68454585600955
+United States,USA,Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS,..,..,..,..,..,..,..,..,..,..,4.38774309355536,1.47342654864512,..
+United States,USA,"Bird species, threatened",EN.BIR.THRD.NO,..,..,..,..,..,..,..,..,..,..,..,..,91
+United States,USA,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,23.7,19.4,18.4,14.6,15.9,15.8,16.7,14.6,14.4,14,13,12.4,..
+United States,USA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,..,..,..,..,..,99.2,99.4,99.4,99.4,99.2,99.1,..
+United States,USA,"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Broad money (% of GDP),FM.LBL.BMNY.GD.ZS,60.0476716362967,66.9365335484738,65.4016619724346,70.6022420268454,69.5063918577878,74.4692242115023,71.2235190027274,60.8150738983702,68.5048316471752,72.465711339677,85.1709162409225,88.9175234783354,89.5379380464548
+United States,USA,Broad money (current LCU),FM.LBL.BMNY.CN,326239000000,497807000000,701958000000,1189580000000,1986011000000,3231204000000,4247161000000,4646119000000,7023352000000,9447094076739.34,12768868670908.1,16200148206841,18349994561178.5
+United States,USA,Broad money growth (annual %),FM.LBL.BMNY.ZG,..,8.62152107267153,11.1850629294424,10.1784316722007,10.6793254282949,8.29309883710408,2.67796315144365,6.86921920992869,8.11046448534502,8.07350612101042,-2.75233991566368,3.14303976348123,4.07428784388369
+United States,USA,Broad money to total reserves ratio,FM.LBL.BMNY.IR.ZS,16.5905349446841,32.1200554134785,46.0707690140025,27.5653044661153,11.5861431221562,27.38726890958,24.5367932055836,26.3990893529136,54.6992090455507,50.1813298058967,26.1160240047171,42.2177354807487,40.7861867857153
+United States,USA,Capture fisheries production (metric tons),ER.FSH.CAPT.MT,2714623,2649980,2794298,2847282,3703301,4719868,5620405,5299199,4760000,4961267,4396632,5045443,..
+United States,USA,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,..,..,..,..,..,..,..,..,6.1,..,5.4,5.4,..
+United States,USA,"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,..,..,..,..,..,..,..,..,5.9,..,6.2,6.4,..
+United States,USA,"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,..,..,..,..,..,..,..,..,88,..,88.4,88.2,..
+United States,USA,Cereal production (metric tons),AG.PRD.CREL.MT,..,183602617,186860751,249283743,269883982,347118216,312410604,277601210,342631506,366436346,401126330,431866508,..
+United States,USA,Cereal yield (kg per hectare),AG.YLD.CREL.KG,..,3040.8,3154.9,3461.3,3771.9,4763.3,4755.1,4644.8,5854.3,6450.7,6978.1,7430.5,..
+United States,USA,Changes in inventories (constant LCU),NE.GDI.STKB.KN,..,..,6801393800,-15551152600,-11406876800,30484852300,19817789500,38184188300,74024691100,59988933500,53917000000,121413256700,..
+United States,USA,Changes in inventories (current LCU),NE.GDI.STKB.CN,3200000000,9200000000,2001000000,-6256000000,-6331000000,21824000000,14546000000,31174000000,54544000000,57513000000,53917000000,128724000000,..
+United States,USA,Changes in inventories (current US$),NE.GDI.STKB.CD,3200000000,9200000000,2001000000,-6256000000,-6331000000,21824000000,14546000000,31174000000,54544000000,57513000000,53917000000,128724000000,..
+United States,USA,"Charges for the use of intellectual property, payments (BoP, current US$)",BM.GSR.ROYL.CD,..,..,220000000,480000000,730000000,1170000000,3140000000,6919000000,16607000000,25577000000,32551000000,40609000000,56117000000
+United States,USA,"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,..,..,2330000000,4310000000,7080000000,6680000000,16640000000,30289000000,51807000000,74448000000,107522000000,124769000000,128748000000
+United States,USA,Chemicals (% of value added in manufacturing),NV.MNF.CHEM.ZS.UN,..,10.3993270763237,10.3664851501687,10.3909068221521,9.67008702428887,9.80089117257437,11.7425932789254,11.7608869327457,11.8375962499766,14.9371964457067,16.1928930474265,16.3159866398598,..
+United States,USA,Children (0-14) living with HIV,SH.HIV.0014,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Children (ages 0-14) newly infected with HIV,SH.HIV.INCD.14,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),SH.MLR.TRET.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Claims on central government (annual growth as % of broad money),FM.AST.CGOV.ZG.M3,..,0.425926532037225,1.09686984233585,3.66004899577191,1.45899732665769,0.28738925878037,0.792381762841512,-0.0175043893233806,0.472965349277199,0.0988512319211917,0.403694633048635,-0.780980276099152,-1.23891497975337
+United States,USA,"Claims on central government, etc. (% GDP)",FS.AST.CGOV.GD.ZS,23.7975335910179,20.206131504639,16.2725716782679,14.5050994003219,13.2498887938888,20.7374822510088,22.5714824260491,27.078900105226,20.1567729770367,18.8253040771991,24.2134503853858,35.7144916660506,39.2490747875531
+United States,USA,Claims on other sectors of the domestic economy (% of GDP),FS.AST.DOMO.GD.ZS,..,..,..,..,..,..,..,..,..,198.468028387763,200.531593888929,199.77003838148,196.329565411173
+United States,USA,Claims on other sectors of the domestic economy (annual growth as % of broad money),FM.AST.DOMO.ZG.M3,..,..,..,..,..,..,..,..,..,11.4924287267494,-2.62850092369914,4.27577353672284,2.83906014367631
+United States,USA,Claims on private sector (annual growth as % of broad money),FM.AST.PRVT.ZG.M3,..,9.03806500180015,4.24888570695439,2.37597076925214,4.79457284202982,7.63285762451244,-0.541003145254679,5.9988761307985,7.14713969564035,7.88587046006489,1.0001218535912,3.66099093076357,1.87708632284406
+United States,USA,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.911638554876216,0.838338302032385,0.909684672739262,0.812182984772512,0.727062808275215,0.587890475219358,0.535860382942904,0.502396829606762,0.451154025933611,0.403957959206071,0.359892819432451,..,..
+United States,USA,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,..,..,..,..,..,..,0.524895814453875,0.492116979440117,0.441922686252773,0.395692327240375,0.352528831362079,..,..
+United States,USA,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,..,..,..,..,..,..,0.80886913312843,0.671870230291597,0.555354373688709,0.444111917587536,0.359892819432451,..,..
+United States,USA,CO2 emissions (kt),EN.ATM.CO2E.KT,2890696.1,3390922.571,4328904.501,4406329.539,4723209.677,4492555.377,4823403.118,5132919.92,5693684.894,5789727.291,5395532.125,..,..
+United States,USA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,15.9997791565885,17.4517252487095,21.1112522725943,20.4022240696754,20.7864877412257,18.8823127427246,19.3227511807806,19.2765452647233,20.1787505069199,19.5918852294317,17.4428617133922,..,..
+United States,USA,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,27.6352131951727,30.1361867124891,32.4866521863471,36.2824542993408,39.0819881913326,41.5340134924064,44.9705879290779,47.7657011972767,48.1109906001446,48.9420879754905,48.7971872340823,..,..
+United States,USA,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.8127616389699,23.0983018514934,24.4883748707119,22.2164799599207,21.2156384434847,19.1579512721497,20.8147768585491,22.6423101103046,22.0445654680095,20.0872394423111,23.632044856002,..,..
+United States,USA,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,630540.65,783245.531,1060078.362,978931.319,1002059.088,860681.57,1003980.596,1162211.646,1255148.094,1162996.384,1275074.572,..,..
+United States,USA,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,44.372700748446,43.2298453682386,47.1193211707213,50.7580202344008,46.9706862645387,43.6963883862216,41.3376170977547,40.4478624907127,40.7120711130805,42.2543801813065,40.1495879704358,..,..
+United States,USA,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1282679.93,1465890.584,2039750.415,2236565.639,2218523.999,1963084.446,1993879.912,2076156.391,2318017.043,2446413.381,2166283.917,..,..
+United States,USA,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),EN.CO2.MANF.ZS,27.1848283952153,26.6774670998752,22.8027217958748,17.3105670073502,18.6644845514513,15.5707686683726,12.5827442243022,9.59299689740952,10.0483107198049,8.36947391126692,8.71994838275311,..,..
+United States,USA,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",EN.CO2.OTHX.ZS,1.90818122034019,1.49230618036922,1.09925951836787,1.97222942982386,1.29359968487006,1.54664185304576,1.38096180074754,0.902589697191899,0.785625168360909,0.963475949051869,0.95996858080624,..,..
+United States,USA,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),EN.CO2.BLDG.ZS,19.5403728915984,18.1337089660471,19.0223184425542,17.03157541843,13.9484170596723,12.7138790114431,11.3546210788244,11.4301089257625,10.6143578183262,10.0268840303949,10.1902918431659,..,..
+United States,USA,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,31.7818089559812,32.1892306045227,27.0056069319604,26.1480987702404,30.9371435935936,36.2380023034271,36.9413100959894,35.8508601474539,36.3729984633041,36.6783142152662,35.4314841559766,..,..
+United States,USA,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,918715.512,1091511.886,1169046.934,1152171.4,1461226.16,1628012.321,1781828.303,1840195.942,2070963.919,2123574.368,1911717.11,..,..
+United States,USA,CO2 emissions from transport (% of total fuel combustion),EN.CO2.TRAN.ZS,23.7314042976734,23.5600332351566,24.5892844059248,27.4029442223483,27.011292881502,28.6349185249189,29.7110849670481,30.3086032823594,30.4408929153729,31.6982535025525,31.3326039591925,..,..
+United States,USA,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.83596497084176,2.76665013002696,2.78914501750027,2.66477556036423,2.61720291386957,2.53240973228266,2.51868127681746,2.48288940114851,2.5045415787994,2.49689492222203,2.43566025951741,..,..
+United States,USA,Coal rents (% of GDP),NY.GDP.COAL.RT.ZS,..,..,0.0905450586387049,0.570650896667551,0.530235827200688,0.303168703571465,0.19287485614639,0.184364708532357,0.139254494501801,0.26837236058147,0.428286480632117,0.153505405213471,..
+United States,USA,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,3.17480629117575,2.66861353208044,2.25968441539584,2.22335001518137,3.01930990762065,3.6695985428088,1.43282836203181,1.58272923985208,2.17934451973153,2.3044470362687,3.2046166589823,3.62103474590516,..
+United States,USA,"Commercial bank branches (per 100,000 adults)",FB.CBK.BRCH.P5,..,..,..,..,..,..,..,..,..,33.2805755761223,35.4039257179455,32.6942660527826,30.898762501022
+United States,USA,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Commitments, IBRD (COM, current US$)",DT.COM.MIBR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Commitments, IDA (COM, current US$)",DT.COM.MIDA.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Commitments, official creditors (COM, current US$)",DT.COM.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Commitments, private creditors (COM, current US$)",DT.COM.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Commitments, public and publicly guaranteed (COM, current US$)",DT.COM.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Communications, computer, etc. (% of service exports, BoP)",BX.GSR.CMCP.ZS,..,..,46.8995633187773,49.4213459065581,44.5846477392219,41.0709643878347,37.3799540105505,41.4113589393822,40.8734012438788,45.9702845009705,47.5065570158292,45.2747628113639,21.8810725838145
+United States,USA,"Communications, computer, etc. (% of service imports, BoP)",BM.GSR.CMCP.ZS,..,..,43.9590443686007,33.8572070049394,34.9524041981938,31.3758156323754,33.4239823234469,31.9913018881267,32.6229288222801,35.4677764237923,41.7970687325774,42.121706113356,15.477873392018
+United States,USA,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Completeness of birth registration (%),SP.REG.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Completeness of birth registration, female (%)",SP.REG.BRTH.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Completeness of birth registration, male (%)",SP.REG.BRTH.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Completeness of birth registration, rural (%)",SP.REG.BRTH.RU.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Completeness of birth registration, urban (%)",SP.REG.BRTH.UR.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Completeness of death registration with cause-of-death information (%),SP.REG.DTHS.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Completeness of infant death reporting (% of reported infant deaths to estimated infant deaths),SP.DTH.INFR.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Completeness of total death reporting (% of reported total deaths to estimated total deaths),SP.DTH.REPT.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Concessional debt (% of total external debt),DT.DOD.ALLC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Condom use, population ages 15-24, female (% of females ages 15-24)",SH.CON.1524.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Condom use, population ages 15-24, male (% of males ages 15-24)",SH.CON.1524.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Consumer price index (2010 = 100),FP.CPI.TOTL,13.5630607803977,14.4496852101109,17.8051000777325,24.6802610650347,37.7923663165265,49.3299488738723,59.919760489111,69.8828203523109,78.9707207568716,89.5605323721102,100,108.695721960693,115.157303224791
+United States,USA,Consumption of iodized salt (% of households),SN.ITK.SALT.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Contraceptive prevalence, any methods (% of women ages 15-49)",SP.DYN.CONU.ZS,..,66.5,67.6,79,..,..,70.7,76.4,..,..,76.4,72.7,..
+United States,USA,"Contraceptive prevalence, modern methods (% of women ages 15-49)",SP.DYN.CONM.ZS,..,49.1,56.8,73.2,..,..,66.6,70.5,..,..,70.4,63.1,..
+United States,USA,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,..,48.1,49.53,62.52,68.56,80.69,79.41,79.65,94.63,100,105.92,114.12,..
+United States,USA,"Currency composition of PPG debt, all other currencies (%)",DT.CUR.OTHC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Currency composition of PPG debt, Deutsche mark (%)",DT.CUR.DMAK.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Currency composition of PPG debt, Euro (%)",DT.CUR.EURO.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Currency composition of PPG debt, French franc (%)",DT.CUR.FFRC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Currency composition of PPG debt, Japanese yen (%)",DT.CUR.JYEN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Currency composition of PPG debt, Multiple currencies (%)",DT.CUR.MULC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Currency composition of PPG debt, Pound sterling (%)",DT.CUR.UKPS.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Currency composition of PPG debt, SDR (%)",DT.CUR.SDRW.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Currency composition of PPG debt, Swiss franc (%)",DT.CUR.SWFR.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Currency composition of PPG debt, U.S. dollars (%)",DT.CUR.USDL.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Current account balance (% of GDP),BN.CAB.XOKA.GD.ZS,..,..,0.244106277537657,1.06118805581802,0.0744407233804418,-2.86830150595336,-1.32399955459737,-1.48644935848023,-3.93529462518315,-5.71654956268718,-2.87666410900024,-2.23811592142882,-2.39576756237161
+United States,USA,"Current account balance (BoP, current US$)",BN.CAB.XOKA.CD,..,..,2620000000,17880000000,2127000000,-124455000000,-78952000000,-113561000000,-403460000000,-745246000000,-431271000000,-407769000000,-490991000000
+United States,USA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,..,..,..,..,..,..,..,..,12.5020673,14.54146429,16.41288147,16.81565916,..
+United States,USA,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,..,..,..,..,..,..,..,..,4559.8883773,6451.47125092,7957.72929561,9524.35059046,..
+United States,USA,"Current health expenditure per capita, PPP (current international $)",SH.XPD.CHEX.PP.CD,..,..,..,..,..,..,..,..,4559.8883773,6451.47125092,7957.72929561,9524.35059046,..
+United States,USA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,9.5,9.4,9.5,8.8,8.8,8.7,8.6,8.8,8.5,8.3,7.995,8.44,..
+United States,USA,Debt buyback (current US$),DT.DSB.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Debt forgiveness grants (current US$),DT.DOD.MDRI.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Debt forgiveness or reduction (current US$),DT.DFR.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Debt service on external debt, long-term (TDS, current US$)",DT.TDS.DLXF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Debt service on external debt, private nonguaranteed (PNG) (TDS, current US$)",DT.TDS.DPNG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",DT.TDS.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Debt stock reduction (current US$),DT.DSF.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Debt stock rescheduled (current US$),DT.DXR.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS,1,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,Demand for family planning satisfied by modern methods (% of married women with demand for family planning),SH.FPL.SATM.ZS,..,..,..,..,..,..,86.8,..,..,..,83.4,77.2,..
+United States,USA,Deposit interest rate (%),FR.INR.DPST,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Depositors with commercial banks (per 1,000 adults)",FB.CBK.DPTR.P3,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),SH.STA.ORCF.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Diarrhea treatment (% of children under 5 who received ORS packet),SH.STA.ORTH,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Disbursements on external debt, long-term (DIS, current US$)",DT.DIS.DLXF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Disbursements on external debt, long-term + IMF (DIS, current US$)",DT.DIS.DLTF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Disbursements on external debt, private nonguaranteed (PNG) (DIS, current US$)",DT.DIS.DPNG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Disbursements on external debt, public and publicly guaranteed (PPG) (DIS, current US$)",DT.DIS.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Discrepancy in expenditure estimate of GDP (constant LCU),NY.GDP.DISC.KN,..,..,230800,263100,315000,370500,436500,495400,611900,695000,727000,810300,0
+United States,USA,Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN,100000000,0,0,0,0,0,0,0,-1536000,3229000,727000,584000,0
+United States,USA,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,101.084107764539,114.020845667158,70.6181758552804,76.227428981117,76.1501301750214,80.9863103739382,79.2400954932499,74.5102751412383,81.9707454212255,91.8377803237957,97.4849244946269,104.147459667251,103.13324209937
+United States,USA,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,70.8748311218007,86.1370215445283,87.6766843401341,90.4747067249167,94.3548659876566,103.68461301963,114.791425711226,130.168599500427,162.598139195576,188.670068904937,188.447613701232,188.394288114579,186.025333123607
+United States,USA,Domestic credit to private sector by banks (% of GDP),FD.AST.PRVT.GD.ZS,38.9272961531382,49.0603738066425,49.6387320262778,54.1266446040843,55.073116049483,55.0508310826118,52.7198068669816,45.835458730385,48.9682289543262,55.2691359527737,52.4689997711479,51.0774103855367,52.1727328052532
+United States,USA,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,..,..,..,..,..,..,..,..,44.18875063,45.38249824,48.53667154,81.94913198,..
+United States,USA,Domestic general government health expenditure (% of GDP),SH.XPD.GHED.GD.ZS,..,..,..,..,..,..,..,..,5.52450734,6.59927978,7.96626637,13.78028671,..
+United States,USA,Domestic general government health expenditure (% of general government expenditure),SH.XPD.GHED.GE.ZS,..,..,..,..,..,..,..,..,16.38340513,18.10718679,18.55342821,36.64254306,..
+United States,USA,Domestic general government health expenditure per capita (current US$),SH.XPD.GHED.PC.CD,..,..,..,..,..,..,..,..,2014.95770426,2927.83882693,3862.41693033,7805.12263524,..
+United States,USA,"Domestic general government health expenditure per capita, PPP (current international $)",SH.XPD.GHED.PP.CD,..,..,..,..,..,..,..,..,2014.95770426,2927.83882693,3862.41693033,7805.12263524,..
+United States,USA,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,..,..,..,..,..,..,..,..,55.81124944,54.61750176,51.4633285,18.05086799,..
+United States,USA,Domestic private health expenditure per capita (current US$),SH.XPD.PVTD.PC.CD,..,..,..,..,..,..,..,..,2544.93067658,3523.63242399,4095.31236852,1719.22795209,..
+United States,USA,"Domestic private health expenditure per capita, PPP (current international $)",SH.XPD.PVTD.PP.CD,..,..,..,..,..,..,..,..,2544.93067658,3523.63242399,4095.31236852,1719.22795209,..
+United States,USA,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"EBRD, private nonguaranteed (NFL, current US$)",DT.NFL.NEBR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,4049.786628734,5234.68500229024,7236.65704309151,8522.39400295407,9862.36549675432,10414.2078983205,11713.3317042099,12659.607628118,13671.0520240061,13704.5770481407,13394.9485702119,..,..
+United States,USA,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.07051454396076,9.02027072349445,8.74196605560349,8.78786372043995,8.77774665062703,7.05854353798291,9.26323204008476,6.99063673464341,5.69127036663988,6.30520320636269,5.99396513336164,..,..
+United States,USA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,53.9120071928861,54.6300693578031,46.3873498898633,44.2954314922731,51.2034260006921,57.2203518859588,53.0673504822167,51.4992802892557,52.8951522460279,50.4570863552959,45.7976057577193,34.2327337278988,..
+United States,USA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,18.4398990094776,17.5241366049109,15.4246805974046,15.0697607350982,11.485135870013,10.8301941051798,8.52850291290812,8.82751503917239,6.28939972204869,6.38210849806987,6.02306238593337,5.84163825956796,..
+United States,USA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,21.1409828193563,21.2446841335641,24.5773885069872,15.9491039996818,15.2622233574477,11.9142051520083,11.9166807428345,14.8619566127675,15.755293556572,18.3380117580999,23.3758416558289,31.9421612232398,..
+United States,USA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0.0692777977163337,0.349964001913936,1.43630329868199,9.12468426181905,10.9661272514543,15.5119379662836,19.0953702261106,20.0598925239449,19.8147239675252,18.9915076224786,19.2664460909667,19.3237776259423,..
+United States,USA,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,6.42257705904494,6.22029039946696,12.123966448487,15.3807255514231,10.8437700838785,4.08920302571122,4.07919538230924,2.450248343766,2.94300507838649,3.30976200588116,1.10431766942719,0.903806520197121,..
+United States,USA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,81.4755670712874,82.0950438908341,83.0887048453375,75.625261043378,77.3094194420184,73.2237600636783,69.0632266073605,68.8114852457892,71.5934508809864,72.104860119277,70.2777650829754,67.0787014713357,..
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0152561215187594,0.0308555023409935,0.0503112585758527,0.180293959704847,0.239317436514345,0.434107864858278,3.00014393597128,1.97356995076965,1.91659722023853,2.19635703638911,4.0972927613063,7.38695495139919,..
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,122000000,345000000,817000000,3626000000,5809000000,11382000000,96089000000,70227000000,77160000000,93760000000,178411000000,317421000000,..
+United States,USA,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,5.34081618748347,7.22057621410312,6.52160993280303,14.8712458060153,13.9313696085034,11.5371937535261,13.7096309133924,19.7408464242136,26.6594195867123,29.6591792835944,22.2092008982127,7.30874345482277,..
+United States,USA,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,..,..,..,..,..,..,8.66657670426795,8.2341349169744,7.3353713960741,6.60173784003223,6.0724792214272,5.40839253955352,..
+United States,USA,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,..,..,44.8823586231366,39.23220862154,39.4873642655976,38.1513366799602,39.5808591675777,40.0217475066619,42.2693213151957,39.575817906471,..,..,..
+United States,USA,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,5641.74075529554,6307.89020241581,7569.07659520512,7656.2635792437,7942.25301793377,7456.26290328004,7671.7730657832,7763.75510556636,8056.86384994775,7846.49968849973,7161.45104607004,6803.91856371416,..
+United States,USA,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,..,..,..,..,..,..,208.401046724388,198.203342932826,176.44853253529,158.473760236671,144.736454924106,127.923086768765,..
+United States,USA,Exclusive breastfeeding (% of children under 6 months),SH.STA.BFED.ZS,..,..,..,..,..,..,..,..,..,..,23.26,..,..
+United States,USA,Exports as a capacity to import (constant LCU),NY.EXP.CAPM.KN,..,..,277644321148.235,312169947873.876,360970289694.446,414720051672.405,646251745377.507,931922437314.085,1334453175696.56,1446817335468.11,1846280000000,2342169237726.21,..
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,4.96963003865268,4.98857066021245,5.56310752881526,8.23227910907684,9.82645547013324,6.98807253964585,9.25473206751338,10.639223880261,10.6927239610622,10.0119737683374,12.3150580752357,12.4321313132793,..
+United States,USA,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,..,..,..,-0.640347553146398,10.7674506106749,3.35078823240565,8.82185705557012,10.2791010514579,8.34422398017225,7.12786956209224,12.1382521352288,0.573591392219114,..
+United States,USA,"Exports of goods and services (BoP, current US$)",BX.GSR.GNFS.CD,..,..,53900000000,130420000000,271788000000,289010000000,535258000000,794397000000,1075321000000,1286020000000,1853035000000,2266689000000,2501305000000
+United States,USA,Exports of goods and services (constant 2010 US$),NE.EXP.GNFS.KD,..,..,187598043300,262166041500,377096645500,383767271100,646722100600,913869174600,1287738790600,1431204848600,1846280000000,2222228469000,..
+United States,USA,Exports of goods and services (constant LCU),NE.EXP.GNFS.KN,..,..,187598043300,262166041500,377096645500,383767271100,646722100600,913869174600,1287738790600,1431204848600,1846280000000,2222228469000,..
+United States,USA,Exports of goods and services (current LCU),NE.EXP.GNFS.CN,27000000000,37100000000,59709000000,138706000000,280772000000,303211000000,551873000000,812810000000,1096255000000,1305225000000,1846280000000,2265047000000,..
+United States,USA,Exports of goods and services (current US$),NE.EXP.GNFS.CD,27000000000,37100000000,59709000000,138706000000,280772000000,303211000000,551873000000,812810000000,1096255000000,1305225000000,1846280000000,2265047000000,..
+United States,USA,"Exports of goods, services and primary income (BoP, current US$)",BX.GSR.TOTL.CD,..,..,65650000000,155790000000,344458000000,382741000000,707008000000,1004661000000,1432025000000,1820234000000,2533201000000,3076764000000,3585489000000
+United States,USA,External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS,0.773053561568194,0.752991797767917,0.367929652670308,0.948184584997127,-0.456933749156111,-2.62776104701129,-1.30560321870476,-1.17493388853482,-3.6581873027684,-5.53204650378942,-3.42783612996827,-2.86187761957355,..
+United States,USA,External balance on goods and services (constant LCU),NE.RSB.GNFS.KN,..,..,-71683595100,-14048525300,-658893800,-186902105700,-90699043600,-120969346200,-503256579700,-815041347500,-513903000000,-659108314000,..
+United States,USA,External balance on goods and services (current LCU),NE.RSB.GNFS.CN,4200000000,5600000000,3949000000,15976000000,-13056000000,-114018000000,-77855000000,-89762000000,-375050000000,-721193000000,-513903000000,-521414000000,..
+United States,USA,External balance on goods and services (current US$),NE.RSB.GNFS.CD,4200000000,5600000000,3949000000,15976000000,-13056000000,-114018000000,-77855000000,-89762000000,-375050000000,-721193000000,-513903000000,-521414000000,..
+United States,USA,"External debt stocks (% of exports of goods, services and primary income)",DT.DOD.DECT.EX.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,External debt stocks (% of GNI),DT.DOD.DECT.GN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"External debt stocks, concessional (DOD, current US$)",DT.DOD.ALLC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"External debt stocks, long-term (DOD, current US$)",DT.DOD.DLXF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"External debt stocks, long-term private sector (DOD, current US$)",DT.DOD.PRVS.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"External debt stocks, long-term public sector (DOD, current US$)",DT.DOD.PUBS.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"External debt stocks, short-term (DOD, current US$)",DT.DOD.DSTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"External debt stocks, variable rate (DOD, current US$)",DT.DOD.VTOT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,..,..,..,..,..,..,..,..,0,0,0,0,..
+United States,USA,External health expenditure per capita (current US$),SH.XPD.EHEX.PC.CD,..,..,..,..,..,..,..,..,0,0,0,0,..
+United States,USA,"External health expenditure per capita, PPP (current international $)",SH.XPD.EHEX.PP.CD,..,..,..,..,..,..,..,..,0,0,0,0,..
+United States,USA,Female genital mutilation prevalence (%),SH.STA.FGMS.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Female headed households (% of households with a female head),SP.HOU.FEMA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,3.654,2.913,2.48,1.774,1.8395,1.844,2.081,1.978,2.056,2.057,1.931,1.8435,..
+United States,USA,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,..,..,..,..,..,..,..,..,..,93.4434101342863,82.4384146017225,124.182163459816,..
+United States,USA,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,..,..,..,..,..,..,..,..,..,118.599763800987,117.124412920896,137.027278548559,..
+United States,USA,Final consumption expenditure (% of GDP),NE.CON.TOTL.ZS,76.6795508926928,75.3798574694097,78.2174278838315,78.7743396656427,77.146662924215,78.4394208868031,79.7763730005514,79.9022716584013,79.9830441609083,82.1517109613565,84.6847275098968,81.8211346034074,..
+United States,USA,Final consumption expenditure (annual % growth),NE.CON.TOTL.KD.ZG,..,..,..,2.30595573931652,0.0554383329796764,5.10251458780604,2.15849145776754,2.43989309589847,4.44810123858007,3.05626991563589,1.42312426043051,3.3548751587587,..
+United States,USA,Final consumption expenditure (constant 2010 US$),NE.CON.TOTL.KD,..,..,4112329555700,4694021833400,5383396579000,6405806700500,7509614397300,8452509012700,10308902390100,11929722497400,12695979000000,13779349798200,..
+United States,USA,Final consumption expenditure (constant LCU),NE.CON.TOTL.KN,..,..,4112329555700,4694021833400,5383396579000,6405806700500,7509614397300,8452509012700,10308902390100,11929722497400,12695979000000,13779349798200,..
+United States,USA,Final consumption expenditure (current LCU),NE.CON.TOTL.CN,416600000000,560600000000,839510000000,1327272000000,2204317000000,3403470000000,4757180000000,6104333000000,8200138000000,10709823000000,12695979000000,14907236000000,..
+United States,USA,Final consumption expenditure (current US$),NE.CON.TOTL.CD,416600000000,560600000000,839510000000,1327272000000,2204317000000,3403470000000,4757180000000,6104333000000,8200138000000,10709823000000,12695979000000,14907236000000,..
+United States,USA,Financial intermediary services indirectly Measured (FISIM) (constant LCU),NV.FSM.TOTL.KN,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Financial intermediary services indirectly Measured (FISIM) (current LCU),NV.FSM.TOTL.CN,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Fish species, threatened",EN.FSH.THRD.NO,..,..,..,..,..,..,..,..,..,..,..,..,251
+United States,USA,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,..,49.92,53.52,64.1,69.19,77.88,77.94,83.89,95.96,99.3,110.27,116.61,..
+United States,USA,"Food, beverages and tobacco (% of value added in manufacturing)",NV.MNF.FBTO.ZS.UN,..,11.2006375066407,11.619283065513,11.7566985048892,10.5766982725029,11.6444542571555,12.368864920468,12.0788645551512,13.0158540152157,14.3545990531261,15.7343783911915,15.5072746944488,..
+United States,USA,"Foreign direct investment, net (BoP, current US$)",BN.KLT.DINV.CD,..,..,5270000000,11420000000,2300000000,-5950000000,-11290000000,40980000000,-162755000000,-89753000000,85789000000,-202031000000,-336846000000
+United States,USA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,..,..,0.117394622021927,0.151937439759179,0.5925159599581,0.461168399293935,0.813161647614077,0.75656935849594,3.41449672398593,1.09187641523892,1.76119311216454,2.79421858967316,1.26080188932424
+United States,USA,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,..,..,1260000000,2560000000,16930000000,20010000000,48490000000,57800000000,350066000000,142344000000,264039000000,509087000000,258390000000
+United States,USA,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,..,..,0.604675473747861,0.81488322183341,0.666361717519328,0.0848125791804939,1.00517445159802,1.44062324560663,1.81782793658698,0.403409153556384,2.33342295661738,1.68533390809563,-0.382822373268404
+United States,USA,"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,..,..,6490000000,13730000000,19040000000,3680000000,59940000000,110060000000,186370000000,52591000000,349828000000,307056000000,-78456000000
+United States,USA,Forest area (% of land area),AG.LND.FRST.ZS,..,..,..,..,..,..,33.0223082096657,33.0815944168334,33.1301735880689,33.2634425971849,33.7494069366007,33.8997225447175,..
+United States,USA,Forest area (sq. km),AG.LND.FRST.K2,..,..,..,..,..,..,3024500,3029930,3035360,3047570,3087200,3100950,..
+United States,USA,Forest rents (% of GDP),NY.GDP.FRST.RT.ZS,..,..,0.10827154054036,0.159353771737744,0.150804078395486,0.0869836027455417,0.124871543705255,0.117214523756489,0.0722829570152819,0.0576374712878258,0.0483988454074593,0.0361228836268952,..
+United States,USA,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.5256695527392,95.8601615794837,95.9187712540164,93.0979531123041,91.4260719583639,88.3016686762272,86.4378383178815,85.4693359772985,85.8808305392289,86.018535392161,84.1505880660269,82.4278282452692,..
+United States,USA,GDP (constant 2010 US$),NY.GDP.MKTP.KD,3170879604134.89,4044814083740.87,4758686862300,5425291617300,6496288385600,7641823717800,9001231051100,10216863677300,12620268393300,14332499605600,14992052727000,16710459044300,17844274747700
+United States,USA,GDP (constant LCU),NY.GDP.MKTP.KN,3170879604134.89,4044814083740.87,4758686862300,5425291617300,6496288385600,7641823717800,9001231051100,10216863677300,12620268393300,14332499605600,14992052727000,16710459044300,17844274747700
+United States,USA,GDP (current LCU),NY.GDP.MKTP.CN,543300000000,743700000000,1073303000000,1684904000000,2857307000000,4338979000000,5963144000000,7639749000000,10252345464000,13036640229000,14992052727000,18219297584000,20494100000000
+United States,USA,GDP (current US$),NY.GDP.MKTP.CD,543300000000,743700000000,1073303000000,1684904000000,2857307000000,4338979000000,5963144000000,7639749000000,10252345464000,13036640229000,14992052727000,18219297584000,20494100000000
+United States,USA,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,17.1340469468322,18.386506390726,22.5546044750935,31.0564688288318,43.9836846888394,56.7793652435776,66.2480939123462,74.7758729224715,81.2371428601541,90.9585947164884,100,109.029306350592,114.849722332602
+United States,USA,GDP deflator: linked series (base year varies by country),NY.GDP.DEFL.ZS.AD,..,..,..,..,..,..,65.9677410442017,74.4153964481451,80.8993306516878,90.8775730158384,100,109.02930814267,..
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,..,6.39999999999968,-0.254079592763361,-0.205464013975075,-0.256751930206136,4.16965595327123,1.88596032242019,2.68428713129616,4.12748401255413,3.51321379694016,2.56376655847168,2.88091046576689,2.8569878160516
+United States,USA,GDP per capita (constant 2010 US$),NY.GDP.PCAP.KD,17550.5731641209,20817.0439146121,23207.2199359187,25120.2308496895,28589.6727279129,32118.7594265396,36059.3016312599,38369.1618432616,44726.9653975986,48499.81237636,48466.8233750801,52099.2697604038,54541.7205176356
+United States,USA,GDP per capita (constant LCU),NY.GDP.PCAP.KN,17550.5731641209,20817.0439146121,23207.2199359187,25120.2308496895,28589.6727279129,32118.7594265396,36059.3016312599,38369.1618432616,44726.9653975986,48499.81237636,48466.8233750801,52099.2697604038,54541.7205176356
+United States,USA,GDP per capita (current LCU),NY.GDP.PCAP.CN,3007.12344537862,3827.52710972039,5234.2966662115,7801.45666356443,12574.7915062163,18236.8277265009,23888.6000088133,28690.8757013347,36334.9087770589,44114.7477776705,48466.8233750801,56803.4724334919,62641.0145699281
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,3007.12344537862,3827.52710972039,5234.2966662115,7801.45666356443,12574.7915062163,18236.8277265009,23888.6000088133,28690.8757013347,36334.9087770589,44114.7477776705,48466.8233750801,56803.4724334919,62641.0145699281
+United States,USA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,..,5.07809761043288,-1.40937952140189,-1.18458928312624,-1.20930049797576,3.25065615566393,0.741481517405958,1.46878726635107,2.97520862501813,2.56350240668131,1.71674815960455,2.12512281587478,2.22182890954011
+United States,USA,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,..,..,..,..,..,..,36812.545744692,39170.6567138861,45661.2686667505,49512.9267885198,49479.2486787465,53187.5733737803,55681.0445771107
+United States,USA,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,..,..,..,..,..,..,23888.6000088133,28690.8757013347,36334.9087770589,44114.7477776705,48466.8233750801,56803.4724334919,62641.0145699281
+United States,USA,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,..,..,..,..,..,..,4.7984403903811,5.045323581343,5.66737498822778,6.31019292093884,6.90910939144086,7.81719723358152,..
+United States,USA,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,..,..,..,..,..,..,3.11383037584344,3.69548952938563,4.50980796669346,5.62222003810534,6.76773785972844,8.34864084594271,..
+United States,USA,"GDP, PPP (constant 2011 international $)",NY.GDP.MKTP.PP.KD,..,..,..,..,..,..,9189258106427.24,10430284128460.2,12883893656329.1,14631891731079.4,15305222282538.1,17059524454289.9,18217024476732.9
+United States,USA,"GDP, PPP (current international $)",NY.GDP.MKTP.PP.CD,..,..,..,..,..,..,5963144000000,7639749000000,10252345464000,13036640229000,14992052727000,18219297584000,20494100000000
+United States,USA,GDP: linked series (current LCU),NY.GDP.MKTP.CN.AD,..,..,..,..,..,..,5979589000000.01,7664060000000.01,10284779000000,13093726000000,14992052000000,18219297000000,..
+United States,USA,General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,15.6451316031658,15.7321500605083,17.9618430210295,17.6107956298994,15.876837875664,15.9171086101131,15.9007731491978,14.9447710913016,14.0260099998519,15.0552977264339,16.7431574962336,14.3403223310566,..
+United States,USA,General government final consumption expenditure (annual % growth),NE.CON.GOVT.KD.ZG,..,..,..,2.44051523942788,1.49813884764704,4.80872927237182,2.74364655060482,0.271220934540111,1.53600830405598,0.838771841641588,0.109780460478575,1.67339729227336,..
+United States,USA,General government final consumption expenditure (constant 2010 US$),NE.CON.GOVT.KD,..,..,1255688862100,1308694288900,1386490500400,1579878835100,1819589830200,1877037403900,2040499645000,2287022122900,2510143000000,2373129602100,..
+United States,USA,General government final consumption expenditure (constant LCU),NE.CON.GOVT.KN,..,..,1255688862100,1308694288900,1386490500400,1579878835100,1819589830200,1877037403900,2040499645000,2287022122900,2510143000000,2373129602100,..
+United States,USA,General government final consumption expenditure (current LCU),NE.CON.GOVT.CN,85000000000,117000000000,192785000000,296725000000,453650000000,690640000000,948186000000,1141743000000,1437995000000,1962705000000,2510143000000,2612706000000,..
+United States,USA,General government final consumption expenditure (current US$),NE.CON.GOVT.CD,85000000000,117000000000,192785000000,296725000000,453650000000,690640000000,948186000000,1141743000000,1437995000000,1962705000000,2510143000000,2612706000000,..
+United States,USA,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,..,..,..,..,..,..,-846.554877930866,-795.375723499317,-540.259926455194,-1027.88174906094,..,..,..
+United States,USA,GNI (constant 2010 US$),NY.GNP.MKTP.KD,..,..,4768798346277.16,5446309997199.31,6547271080360.86,7655813350954.39,9017270452278.9,10213137850159.4,12612592879097.8,14360327397426.4,15126736000000,16852135715562.1,..
+United States,USA,GNI (constant LCU),NY.GNP.MKTP.KN,..,..,4788040557073.97,5468285983060.13,6573689469465.22,7686704733567.6,9053655345548.73,10254348095831.3,12663484980891.8,14418271648121.8,15187772727000,16920134470021.6,..
+United States,USA,GNI (current LCU),NY.GNP.MKTP.CN,546400000000,749000000000,1074359000000,1684554000000,2847055000000,4310074000000,5902290000000,7574691000000,10383859000000,13169702000000,15126736000000,18700478000000,20738399000000
+United States,USA,GNI (current US$),NY.GNP.MKTP.CD,546400000000,749000000000,1074359000000,1684554000000,2847055000000,4310074000000,5902290000000,7574691000000,10383859000000,13169702000000,15126736000000,18700478000000,20738399000000
+United States,USA,GNI growth (annual %),NY.GNP.MKTP.KD.ZG,..,..,..,-0.431118085497445,-0.283971760842505,3.84671269526436,2.03021590282822,2.73612704185793,4.20617108866715,3.46737809422761,2.88909062244727,2.74983084567131,..
+United States,USA,GNI per capita (constant 2010 US$),NY.GNP.PCAP.KD,..,..,23256.5317396425,25217.5503289731,28814.0437027654,32177.5581738471,36123.5561317623,38355.1695977865,44699.7629287261,48593.9789711317,48902.2320894793,52540.9842037517,..
+United States,USA,GNI per capita (constant LCU),NY.GNP.PCAP.KN,..,..,23350.3723790745,25319.303723429,28930.3090305434,32307.3953597266,36269.315509984,38509.9335875711,44880.1274982436,48790.0567917735,49099.5537185298,52752.9882811122,..
+United States,USA,GNI per capita (current LCU),NY.GNP.PCAP.CN,3024.28170542035,3854.8040946357,5239.44657940425,7799.83609062244,12529.6732313786,18115.339352062,23644.8163831057,28446.5520996853,36801.0003997308,44565.0161262177,48902.2320894793,58303.6794732954,63387.7239749969
+United States,USA,GNI per capita growth (annual %),NY.GNP.PCAP.KD.ZG,..,..,..,-1.40802936967107,-1.23626037907979,2.93056194986934,0.884116683639576,1.52001353478664,3.0530249494561,2.51808723664617,2.03938554896754,1.99500613786022,..
+United States,USA,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,..,3880,5230,8510,13380,17460,24060,29040,35960,46190,48990,56700,62850
+United States,USA,"GNI per capita, PPP (constant 2011 international $)",NY.GNP.PCAP.PP.KD,..,..,..,..,..,..,37153.7138513278,39448.9676143019,45974.4936245583,49979.7634265413,50296.807189096,54039.3278406195,..
+United States,USA,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,..,..,..,..,..,..,23640,28450,36800,44570,48900,58300,63390
+United States,USA,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,..,753294530375.94,1073112978416,1837615622929.41,3041382280207.25,4154713731137.72,6006223905773.47,7731975033353.42,10147603801918,13651359826784.8,15154198695418.1,18187661446461.9,20562615399585.2
+United States,USA,"GNI, PPP (constant 2011 international $)",NY.GNP.MKTP.PP.KD,..,..,..,..,..,..,9274421512709.99,10504392198401.1,12972273965609.5,14769849706636.1,15558114455802.9,17332718458723.6,..
+United States,USA,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,..,..,..,..,..,..,5902290000000,7574691000000,10383859000000,13169702000000,15126736000000,18700478000000,20738399000000
+United States,USA,"Goods exports (BoP, current US$)",BX.GSR.MRCH.CD,..,..,42450000000,107090000000,224238000000,215917000000,387398000000,575204000000,784939000000,913016000000,1290279000000,1511383000000,1674330000000
+United States,USA,"Goods imports (BoP, current US$)",BM.GSR.MRCH.CD,..,..,39860000000,98180000000,249771000000,338082000000,498440000000,749374000000,1231722000000,1695821000000,1938952000000,2273249000000,2561666000000
+United States,USA,"Grants, excluding technical cooperation (BoP, current US$)",BX.GRT.EXTA.CD.WD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,22.5289895085588,23.8671507328224,21.4147356338331,20.2774757493602,23.3102708249411,24.1883401602082,21.5292134484762,21.2726491406982,23.6751483699321,23.3803031030933,18.7431037708356,21.0407398107736,..
+United States,USA,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,..,..,..,-12.4166380721526,-7.70410100820251,2.40296473016932,-1.02705186040792,2.86456087032236,6.09796335952673,5.60903920427931,10.4575425711198,4.41157711602864,..
+United States,USA,Gross capital formation (constant 2010 US$),NE.GDI.TOTL.KD,..,..,797653281000,823857346800,1115629522700,1473358628500,1619148946300,1912981395200,2804385358500,3207691318200,2809976000000,3589225861500,..
+United States,USA,Gross capital formation (constant LCU),NE.GDI.TOTL.KN,..,..,797653281000,823857346800,1115629522700,1473358628500,1619148946300,1912981395200,2804385358500,3207691318200,2809976000000,3589225861500,..
+United States,USA,Gross capital formation (current LCU),NE.GDI.TOTL.CN,122400000000,177500000000,229845000000,341656000000,666046000000,1049527000000,1283818000000,1625177000000,2427258000000,3048006000000,2809976000000,3833475000000,..
+United States,USA,Gross capital formation (current US$),NE.GDI.TOTL.CD,122400000000,177500000000,229845000000,341656000000,666046000000,1049527000000,1283818000000,1625177000000,2427258000000,3048006000000,2809976000000,3833475000000,..
+United States,USA,Gross domestic income (constant LCU),NY.GDY.TOTL.KN,..,..,4848733140148.24,5475295523673.88,6480162029794.45,7672776498372.41,9000760695877.51,10234916940014.1,12666982778396.6,14348112092468.1,14992052727000,16830399813026.2,..
+United States,USA,Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,23.3204491073072,24.6201425305903,21.7825721161685,21.2256603343573,22.853337075785,21.5605791131969,20.2236269994486,20.0977283415987,20.0169558390917,17.8482890386435,15.3152724901032,18.1788653965926,..
+United States,USA,Gross domestic savings (current LCU),NY.GDS.TOTL.CN,126700000000,183100000000,233793000000,357632000000,652990000000,935509000000,1205964000000,1535416000000,2052207464000,2326817229000,2296073727000,3312061584000,..
+United States,USA,Gross domestic savings (current US$),NY.GDS.TOTL.CD,126700000000,183100000000,233793000000,357632000000,652990000000,935509000000,1205964000000,1535416000000,2052207464000,2326817229000,2296073727000,3312061584000,..
+United States,USA,Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,21.9399963187926,22.6300927793465,..,20.6487728677717,23.5318780936035,23.6853416437369,21.2852817238692,20.8645990856506,23.1431335232658,22.9391388231122,18.3834665618302,20.3342142193971,..
+United States,USA,Gross fixed capital formation (annual % growth),NE.GDI.FTOT.KD.ZG,..,8.56852972120494,..,-7.30012463274574,-4.29245819199753,7.00470424389681,-0.104831125158285,5.15577871438515,6.39754699553407,6.05938685923778,2.23224675104933,3.26205825208505,..
+United States,USA,Gross fixed capital formation (constant 2010 US$),NE.GDI.FTOT.KD,..,..,..,857419254800,1143973164200,1462427689600,1614927532200,1890343856300,2747537795500,3151532627700,2756059000000,3455408648300,..
+United States,USA,Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN,447316963844.293,611373371815.765,..,857419254800,1143973164200,1462427689600,1614927532200,1890343856300,2747537795500,3151532627700,2756059000000,3455408648300,..
+United States,USA,Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN,119200000000,168300000000,..,347912000000,672378000000,1027702000000,1269272000000,1594003000000,2372714000000,2990493000000,2756059000000,3704751000000,..
+United States,USA,Gross fixed capital formation (current US$),NE.GDI.FTOT.CD,119200000000,168300000000,..,347912000000,672378000000,1027702000000,1269272000000,1594003000000,2372714000000,2990493000000,2756059000000,3704751000000,..
+United States,USA,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,15.3138229339223,16.1893236520102,15.8482739729601,15.2708997070456,18.5524341626574,19.1197053500374,16.6606743020125,17.2453309657163,19.8374119087332,19.3845956903717,14.0127575473141,..,..
+United States,USA,"Gross fixed capital formation, private sector (current LCU)",NE.GDI.FPRV.CN,83200000000,120400000000,170100000000,257300000000,530100000000,829600000000,993500000000,1317500000000,2033800000000,2527100000000,2100800000000,..,..
+United States,USA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,99.2085404012516,99.2470082022321,99.6321635176646,99.0518154150029,100.456933749156,102.627761047011,101.305586449028,101.1749207991,103.65819253084,105.53201406445,103.427831280732,102.861874414181,..
+United States,USA,Gross national expenditure (constant 2010 US$),NE.DAB.TOTL.KD,..,..,4909982836700,5517879180200,6499026101700,7879165329000,9128763343600,10365490407900,13113287748600,15137413815600,15505955000000,17368575659700,..
+United States,USA,Gross national expenditure (constant LCU),NE.DAB.TOTL.KN,..,..,4909982836700,5517879180200,6499026101700,7879165329000,9128763343600,10365490407900,13113287748600,15137413815600,15505955000000,17368575659700,..
+United States,USA,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,539000000000,738100000000,1069355000000,1668928000000,2870363000000,4452997000000,6040998000000,7729510000000,10627396000000,13757829000000,15505955000000,18740711000000,..
+United States,USA,Gross national expenditure (current US$),NE.DAB.TOTL.CD,539000000000,738100000000,1069355000000,1668928000000,2870363000000,4452997000000,6040998000000,7729510000000,10627396000000,13757829000000,15505955000000,18740711000000,..
+United States,USA,Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,..,..,21.7792003671995,30.2458235401143,44.1660481906539,56.5161005520512,66.1754256586707,74.5696507915245,81.0429558455667,90.8862581653264,100,107.900102847718,..
+United States,USA,Gross savings (% of GDP),NY.GNS.ICTR.ZS,..,..,21.5595223343268,20.9152568929743,22.1970547792029,20.3611033839989,18.756045468632,18.7477978661341,20.8217525199071,18.2178073359487,15.5181951555579,20.2005317879658,..
+United States,USA,Gross savings (% of GNI),NY.GNS.ICTR.GN.ZS,..,..,21.5383312282021,20.9196024585736,22.2769844628924,20.497652708515,18.9494247148141,18.9088201749748,20.558041090504,18.0337413860997,15.3800264644005,19.6807536149611,..
+United States,USA,Gross savings (current LCU),NY.GNS.ICTR.CN,..,..,231399000000,352402000000,634238000000,883464000000,1118450000000,1432284700000,2134718000000,2374990000000,2326496000000,3680395000000,..
+United States,USA,Gross savings (current US$),NY.GNS.ICTR.CD,..,..,231399000000,352402000000,634238000000,883464000000,1118450000000,1432284700000,2134718000000,2374990000000,2326496000000,3680395000000,..
+United States,USA,Gross value added at basic prices (GVA) (constant 2010 US$),NY.GDP.FCST.KD,..,..,5188304400800,5751127335900,6682870311100,7702879287200,8917415029400,9928565682400,12320003413500,13932205112100,14482933327000,15967589499400,..
+United States,USA,Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN,..,..,5188304400800,5751127335900,6682870311100,7702879287200,8917415029400,9928565682400,12320003413500,13932205112100,14482933327000,15967589499400,..
+United States,USA,Gross value added at basic prices (GVA) (current LCU),NY.GDP.FCST.CN,..,..,986669206000,1554103987000,2666778413000,4052205171000,5565147896000,7116656796000,9885421922000,12564941861000,14482933327000,17560445314000,..
+United States,USA,Gross value added at basic prices (GVA) (current US$),NY.GDP.FCST.CD,..,..,986669206000,1554103987000,2666778413000,4052205171000,5565147896000,7116656796000,9885421922000,12564941861000,14482933327000,17560445314000,..
+United States,USA,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,..,..,..,..,..,..,29185.8,..,112665,186290,300896,..,..
+United States,USA,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,9.19999980926514,8.80000019073486,7.90000009536743,6.80000019073486,6,5.5,4.9000000954,4.0999999046,3.5,3.2,3,..,..
+United States,USA,Households and NPISHs final consumption expenditure (% of GDP),NE.CON.PRVT.ZS,61.034419289527,59.6477074089014,60.2554916924671,61.1635440357433,61.269825048551,62.52231227669,63.8755998513536,64.9575005670998,65.9570439149221,67.0964132349226,67.9415700136631,67.4808122723509,..
+United States,USA,Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,..,..,..,2.26743755549541,-0.31218750747064,5.17751165473743,2.01406942049209,2.95050350740537,5.08161942864254,3.56194069219652,1.74962260911613,3.71961621698178,..
+United States,USA,Households and NPISHs Final consumption expenditure (constant 2010 US$),NE.CON.PRVT.KD,..,..,2954286552100,3464236800700,4060569187700,4886332626200,5753950617300,6613841407900,8272097285000,9643098265600,10185836000000,11409800051100,..
+United States,USA,Households and NPISHs Final consumption expenditure (constant LCU),NE.CON.PRVT.KN,..,..,2954286552100,3464236800700,4060569187700,4886332626200,5753950617300,6613841407900,8272097285000,9643098265600,10185836000000,11409800051100,..
+United States,USA,Households and NPISHs Final consumption expenditure (current LCU),NE.CON.PRVT.CN,331600000000,443600000000,646724000000,1030547000000,1750667000000,2712830000000,3808994000000,4962590000000,6762144000000,8747118000000,10185836000000,12294530000000,..
+United States,USA,Households and NPISHs Final consumption expenditure (current US$),NE.CON.PRVT.CD,331600000000,443600000000,646724000000,1030547000000,1750667000000,2712830000000,3808994000000,4962590000000,6762144000000,8747118000000,10185836000000,12294530000000,..
+United States,USA,Households and NPISHs Final consumption expenditure per capita (constant 2010 US$),NE.CON.PRVT.PC.KD,..,..,14407.4993274877,16040.1383538683,17870.2571798878,20537.3675047494,23050.5627177784,24838.1068203156,29316.7940254097,32631.325273204,32929.1207367785,35573.0652999204,..
+United States,USA,Households and NPISHs Final consumption expenditure per capita growth (annual %),NE.CON.PRVT.PC.KD.ZG,..,..,..,1.2640496311711,-1.26420666517242,4.24962040810703,0.868151573758993,1.73185237191788,3.91878557264104,2.61178224319278,0.909327782593977,2.95766723506226,..
+United States,USA,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,..,..,..,..,..,..,5899794004408.37,6781480148111.91,8481767260774.04,9887518526880.22,10444012846061.9,11699000288703.4,..
+United States,USA,"Households and NPISHs Final consumption expenditure, PPP (current international $)",NE.CON.PRVT.PP.CD,..,..,..,..,..,..,3808994000000,4962590000000,6762144000000,8747118000000,10185836000000,12294530000000,..
+United States,USA,"IBRD loans and IDA credits (DOD, current US$)",DT.DOD.MWBG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,IDA grants (current US$),DT.DIS.IDAG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"IFC, private nonguaranteed (NFL, current US$)",DT.NFL.NIFC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"IMF charges (INT, current US$)",DT.INT.DIMF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"IMF purchases (DIS, current US$)",DT.DIS.DIMF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"IMF repurchases (AMT, current US$)",DT.AMT.DIMF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"IMF repurchases and charges (TDS, current US$)",DT.TDS.DIMF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,..,..,..,..,96,96,90,95,94,96,95,95,94
+United States,USA,"Immunization, HepB3 (% of one-year-old children)",SH.IMM.HEPB,..,..,..,..,..,..,..,68,90,93,92,92,91
+United States,USA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,..,..,..,..,86,97,90,88,91,92,92,92,92
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,4.19657647708448,4.23557886244453,5.19517787614495,7.28409452407971,10.2833892192894,9.61583358665714,10.5603352862181,11.8141577687958,14.3509112638306,15.5440202721268,15.7428942052039,15.2940089328528,..
+United States,USA,Imports of goods and services (annual % growth),NE.IMP.GNFS.KD.ZG,..,..,..,-11.114196399264,-6.65612032610974,6.48954681721405,3.57707430369972,8.00083276062453,12.8850723141868,6.52861883910828,13.1277364548894,5.45741651669557,..
+United States,USA,"Imports of goods and services (BoP, current US$)",BM.GSR.GNFS.CD,..,..,54510000000,120450000000,290741000000,410112000000,616110000000,890784000000,1447843000000,2000272000000,2348263000000,2765221000000,3128992000000
+United States,USA,Imports of goods and services (constant 2010 US$),NE.IMP.GNFS.KD,..,..,259281638400,276214566800,377755539300,570669376900,737421144200,1034838520800,1790995370300,2246246196100,2360183000000,2881336783000,..
+United States,USA,Imports of goods and services (constant LCU),NE.IMP.GNFS.KN,..,..,259281638400,276214566800,377755539300,570669376900,737421144200,1034838520800,1790995370300,2246246196100,2360183000000,2881336783000,..
+United States,USA,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,22800000000,31500000000,55760000000,122730000000,293828000000,417229000000,629728000000,902572000000,1471305000000,2026418000000,2360183000000,2786461000000,..
+United States,USA,Imports of goods and services (current US$),NE.IMP.GNFS.CD,22800000000,31500000000,55760000000,122730000000,293828000000,417229000000,629728000000,902572000000,1471305000000,2026418000000,2360183000000,2786461000000,..
+United States,USA,"Imports of goods, services and primary income (BoP, current US$)",BM.GSR.TOTL.CD,..,..,59580000000,133030000000,333831000000,484056000000,759300000000,1080148700000,1786482000000,2480591000000,2860211000000,3371686000000,3959195000000
+United States,USA,"Incidence of HIV (per 1,000 uninfected population ages 15-49)",SH.HIV.INCD.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Incidence of malaria (per 1,000 population at risk)",SH.MLR.INCD.P3,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Incidence of tuberculosis (per 100,000 people)",SH.TBS.INCD,..,..,..,..,..,..,..,..,6.7,5.5,4.2,3.3,..
+United States,USA,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,..,..,..,..,..,..,..,..,22.4543862190713,21.223491224719,19.3552915457272,18.5241378842391,..
+United States,USA,"Industry (including construction), value added (annual % growth)",NV.IND.TOTL.KD.ZG,..,..,..,..,..,..,..,..,5.0889532253114,1.61355630764577,2.29812286266808,1.90773314994091,..
+United States,USA,"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,..,..,..,..,..,..,..,..,2780043733900,2969393087100,2901755514000,3144627641900,..
+United States,USA,"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,..,..,..,..,..,..,..,..,2780043733900,2969393087100,2901755514000,3144627641900,..
+United States,USA,"Industry (including construction), value added (current LCU)",NV.IND.TOTL.CN,..,..,..,..,..,..,..,..,2302101247000,2766830195000,2901755514000,3374967806000,..
+United States,USA,"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,..,..,..,..,..,..,..,..,2302101247000,2766830195000,2901755514000,3374967806000,..
+United States,USA,"Industry (including construction), value added per worker (constant 2010 US$)",NV.IND.EMPL.KD,..,..,..,..,..,..,..,..,80782.3267318137,92285.8415738959,104055.882105699,103970.260404758,..
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.45797598627786,1.58516926383669,5.83825533848253,9.14314686496534,13.5492019749684,3.54564415209369,5.39795643990322,2.80541968853655,3.37685727149935,3.39274684549547,1.64004344238989,0.118627135552435,2.44258329692818
+United States,USA,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,..,1.91982581124756,5.50416613424842,9.26262076155544,9.03303786925784,3.16244542868338,3.74333445824522,2.09683126892971,2.2354744101246,3.11494234240588,1.16525054555024,1.06934165943751,2.25530789041738
+United States,USA,"Inflation, GDP deflator: linked series (annual %)",NY.GDP.DEFL.KD.ZG.AD,..,..,..,..,..,..,3.69915670345064,2.08567664495882,2.27551980515122,3.21763824985275,1.22134939747505,1.06933573121455,..
+United States,USA,"Insurance and financial services (% of service exports, BoP)",BX.GSR.INSF.ZS,..,..,0.698689956331878,0.900128589798543,3.19663512092534,4.03595419534018,3.1448667658596,3.77703667544128,8.86694078834087,12.7191665504928,15.4143181058931,15.7132341064416,15.6569424710541
+United States,USA,"Insurance and financial services (% of service imports, BoP)",BM.GSR.INSF.ZS,..,..,1.36518771331058,1.52671755725191,2.09909690017086,3.40136054421769,3.72227415653947,5.37373594512411,10.281740321394,13.4126673914686,18.8072150516356,14.8764563836966,13.0055735150513
+United States,USA,"Interest arrears, long-term DOD (US$)",DT.IXA.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest arrears, official creditors (current US$)",DT.IXA.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest arrears, private creditors (current US$)",DT.IXA.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Interest forgiven (current US$),DT.IXF.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest payments on external debt (% of exports of goods, services and primary income)",DT.INT.DECT.EX.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Interest payments on external debt (% of GNI),DT.INT.DECT.GN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest payments on external debt, long-term (INT, current US$)",DT.INT.DLXF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",DT.INT.DPNG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest payments on external debt, public and publicly guaranteed (PPG) (INT, current US$)",DT.INT.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest payments on external debt, short-term (INT, current US$)",DT.INT.DSTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest payments on external debt, total (INT, current US$)",DT.INT.DECT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest rate spread (lending rate minus deposit rate, %)",FR.INR.LNDP,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Interest rescheduled (capitalized) (current US$),DT.IXR.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest rescheduled, official (current US$)",DT.IXR.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Interest rescheduled, private (current US$)",DT.IXR.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Land area (sq. km),AG.LND.TOTL.K2,..,9158960,9158960,9158960,9158960,9158960,9158960,9158960,9161920,9161920,9147420,9147420,9147420
+United States,USA,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,..,..,..,..,..,..,1.167679223,..,1.167679223,..,1.167679223,..,..
+United States,USA,Land under cereal production (hectares),AG.LND.CREL.HA,..,60379266,59229150,72020441,71550444,72873500,65700000,59766550,58526104,56805877,57483702,58121068,..
+United States,USA,Lending interest rate (%),FR.INR.LEND,4.82083333333333,4.535,7.91,7.8625,15.2658333333333,9.93333333333333,10.0091666666667,8.82916666666667,9.23333333333333,6.18916666666667,3.25,3.26,..
+United States,USA,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,ER.H2O.FWST.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.1,73.8,74.7,76.6,77.4,78.2,78.8,78.9,79.3,80.1,81,81.2,..
+United States,USA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.6,66.8,67.1,68.8,70,71.1,71.8,72.5,74.1,75,76.2,76.3,..
+United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.7707317073171,70.2146341463415,70.8073170731707,72.6048780487805,73.609756097561,74.5634146341464,75.2146341463415,75.6219512195122,76.6365853658537,77.4878048780488,78.5414634146342,78.690243902439,..
+United States,USA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,..,..,..,..,..,..,..,..,0.0229036535589857,0.0264402355219897,0.0282222335556632,0.0319954017294704,..
+United States,USA,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK,..,..,..,..,..,..,..,..,4400,3800,3500,3100,..
+United States,USA,"Listed domestic companies, total",CM.MKT.LDOM.NO,..,..,..,..,5164,6260,6429,7487,6917,5145,4279,4381,4397
+United States,USA,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,..,59.38,64.57,66.1,70.47,75.24,78.8,88.71,97.47,99.71,105.98,108.91,..
+United States,USA,Low-birthweight babies (% of births),SH.STA.BRTW.ZS,..,..,..,..,..,..,..,..,..,..,8.1,..,..
+United States,USA,Machinery and transport equipment (% of value added in manufacturing),NV.MNF.MTRN.ZS.UN,..,22.2418983531078,21.6182808271807,23.0278830228918,23.9044031692428,24.4640921681185,22.6221721339374,21.8423096316637,29.7183564457992,25.1048162624569,28.9666285548605,28.9356317508439,..
+United States,USA,"Mammal species, threatened",EN.MAM.THRD.NO,..,..,..,..,..,..,..,..,..,..,..,..,40
+United States,USA,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,..,..,..,..,..,..,..,..,15.1168784591007,12.9930744136975,11.9326848736209,11.615354051072,..
+United States,USA,"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,..,..,..,..,..,..,..,..,7.2049964813055,2.93741931051046,5.50414844833939,0.495943922942558,..
+United States,USA,"Manufacturing, value added (constant 2010 US$)",NV.IND.MANF.KD,..,..,..,..,..,..,..,..,1552664512400,1747499166300,1788954408000,1868264009700,..
+United States,USA,"Manufacturing, value added (constant LCU)",NV.IND.MANF.KN,..,..,..,..,..,..,..,..,1552664512400,1747499166300,1788954408000,1868264009700,..
+United States,USA,"Manufacturing, value added (current LCU)",NV.IND.MANF.CN,..,..,..,..,..,..,..,..,1549834603000,1693860366000,1788954408000,2116235920000,..
+United States,USA,"Manufacturing, value added (current US$)",NV.IND.MANF.CD,..,..,..,..,..,..,..,..,1549834603000,1693860366000,1788954408000,2116235920000,..
+United States,USA,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,..,..,..,..,..,..,..,..,..,..,..,..,41.0574077685482
+United States,USA,Market capitalization of listed domestic companies (% of GDP),CM.MKT.LCAP.GD.ZS,..,..,..,..,47.5901889436452,53.0276339203301,51.8761327916951,90.9980943091193,147.358973154477,130.408327386235,115.284090809481,137.587848732511,148.512562396007
+United States,USA,Market capitalization of listed domestic companies (current US$),CM.MKT.LCAP.CD,..,..,..,..,1359797800000,2300857900000,3093448500000,6952026000000,15107751000000,17000864470000,17283451680000,25067539600000,30436313050000
+United States,USA,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT,..,..,..,..,..,..,..,..,12,13,15,18,..
+United States,USA,"Maternal mortality ratio (national estimate, per 100,000 live births)",SH.STA.MMRT.NE,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Medium and high-tech Industry (including construction) (% manufacturing value added),NV.MNF.TECH.ZS.UN,..,..,..,..,..,..,48.654045427385,49.2224311288176,51.0131673321701,49.3106240883447,47.6911423930234,41.1664326572945,..
+United States,USA,Methane emissions (% change from 1990),EN.ATM.METH.ZG,..,..,..,..,..,..,..,-5.19591114679848,-12.7074067336223,-15.5637385593034,-17.7102610266673,..,..
+United States,USA,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,..,..,594255,589865,607555,601871,637636,604505,556609,538396,524709,..,..
+United States,USA,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,..,..,266715.66023592,231417.067385447,239907.455963851,229621.831589043,252381.807161776,241933.464765146,235274.846679298,213074.620575724,..,..,..
+United States,USA,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,..,..,0.172617382774516,0.191035517468026,0.121481982697744,0.0324892226520912,0.0476793478898619,0.0395741888538695,0.0137954843048684,0.0289275508189098,0.125824551747833,0.0764975713664988,..
+United States,USA,"Mortality caused by road traffic injury (per 100,000 people)",SH.STA.TRAF.P5,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",SH.DYN.NCOM.ZS,..,..,..,..,..,..,..,..,18,16,14.5,14.3,..
+United States,USA,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",SH.DYN.NCOM.FE.ZS,..,..,..,..,..,..,..,..,14.6,13,11.7,11.6,..
+United States,USA,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",SH.DYN.NCOM.MA.ZS,..,..,..,..,..,..,..,..,21.6,19.2,17.4,17.2,..
+United States,USA,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",SH.STA.AIRP.P5,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",SH.STA.AIRP.FE.P5,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",SH.STA.AIRP.MA.P5,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",SH.STA.POIS.P5,..,..,..,..,..,..,..,..,0.7,0.8,0.9,0.9,..
+United States,USA,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",SH.STA.POIS.P5.FE,..,..,..,..,..,..,..,..,0.6,0.7,0.8,0.8,..
+United States,USA,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",SH.STA.POIS.P5.MA,..,..,..,..,..,..,..,..,0.8,0.9,1,1,..
+United States,USA,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,130.63,128.619,128.466,112.933,102.561,95.529,90.868,89.372,83.359,81.507,77.149,80.289,..
+United States,USA,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,233.293,233.011,236.992,212.742,194.955,178.088,172.059,166.964,143.926,141.969,131.874,134.102,..
+United States,USA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,25.9,23.3,19.9,15.9,12.6,10.6,9.4,7.9,7.1,6.7,6.2,5.8,5.6
+United States,USA,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN,..,..,..,..,..,..,8.3,..,6.4,..,5.7,5.3,5.1
+United States,USA,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN,..,..,..,..,..,..,10.4,..,7.8,..,6.8,6.3,6.1
+United States,USA,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT,..,..,15,11.5,8.4,6.9,5.8,5,4.6,4.5,4,3.9,3.5
+United States,USA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,30.1,27.1,23.2,18.8,15,12.7,11.2,9.5,8.4,8,7.3,6.8,6.5
+United States,USA,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE,..,..,..,..,..,..,10,..,7.6,..,6.6,6.2,5.9
+United States,USA,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA,..,..,..,..,..,..,12.5,..,9.3,..,8,7.4,7.1
+United States,USA,Multilateral debt (% of total external debt),DT.DOD.MLAT.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Multilateral debt service (% of public and publicly guaranteed debt service),DT.TDS.MLAT.PG.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Multilateral debt service (TDS, current US$)",DT.TDS.MLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,..,..,0.008250471185809,0.843346298553252,1.77735805717906,0.447077817773714,0.190559625137919,0.148736501269734,0.467952400454059,0.582478192519397,0,0,..
+United States,USA,"Net bilateral aid flows from DAC donors, Australia (current US$)",DC.DAC.AUSL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Austria (current US$)",DC.DAC.AUTL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Belgium (current US$)",DC.DAC.BELL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Canada (current US$)",DC.DAC.CANL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Czech Republic (current US$)",DC.DAC.CZEL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Denmark (current US$)",DC.DAC.DNKL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",DC.DAC.CECL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Finland (current US$)",DC.DAC.FINL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, France (current US$)",DC.DAC.FRAL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Germany (current US$)",DC.DAC.DEUL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Greece (current US$)",DC.DAC.GRCL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Iceland (current US$)",DC.DAC.ISLL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Ireland (current US$)",DC.DAC.IRLL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Italy (current US$)",DC.DAC.ITAL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Japan (current US$)",DC.DAC.JPNL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",DC.DAC.KORL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",DC.DAC.LUXL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Netherlands (current US$)",DC.DAC.NLDL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, New Zealand (current US$)",DC.DAC.NZLL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Norway (current US$)",DC.DAC.NORL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Poland (current US$)",DC.DAC.POLL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Portugal (current US$)",DC.DAC.PRTL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)",DC.DAC.SVKL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Slovenia (current US$)",DC.DAC.SVNL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Spain (current US$)",DC.DAC.ESPL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Sweden (current US$)",DC.DAC.SWEL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Switzerland (current US$)",DC.DAC.CHEL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, Total (current US$)",DC.DAC.TOTL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",DC.DAC.GBRL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net bilateral aid flows from DAC donors, United States (current US$)",DC.DAC.USAL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net capital account (BoP, current US$)",BN.TRF.KOGT.CD,..,..,..,..,..,..,-7220200000,-221500000,-2000000,13115000000,-158000000,-43000000,3235000000
+United States,USA,Net change in interest arrears (current US$),DT.IXA.DPPG.CD.CG,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net domestic credit (current LCU),FM.AST.DOMS.CN,328965000000,522383000000,757947000000,1284359000000,2175843000000,3513979000000,4725201000000,5692398000000,8403924000000,11972561015112.6,14614991281110.6,18974935602952.8,21136229769087
+United States,USA,"Net errors and omissions (BoP, current US$)",BN.KAC.EOMS.CD,..,..,-550000000,4638000000,22870000000,19780000000,28113200000,30962700000,-74931999999.9999,18063999999.9999,-14990000000.0001,81867999999.9999,42287000000
+United States,USA,"Net financial account (BoP, current US$)",BN.FIN.TOTL.CD,..,..,2070000000,22518000000,24997000000,-104675000000,-58059000000,-82819800000,-478394000000,-714067000000,-446419000000,-325944000000,-445469000000
+United States,USA,"Net financial flows, bilateral (NFL, current US$)",DT.NFL.BLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net financial flows, IBRD (NFL, current US$)",DT.NFL.MIBR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net financial flows, IMF concessional (NFL, current US$)",DT.NFL.IMFC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net financial flows, IMF nonconcessional (NFL, current US$)",DT.NFL.IMFN.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net financial flows, multilateral (NFL, current US$)",DT.NFL.MLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net financial flows, others (NFL, current US$)",DT.NFL.MOTH.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net financial flows, RDB concessional (NFL, current US$)",DT.NFL.RDBC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net flows on external debt, long-term (NFL, current US$)",DT.NFL.DLXF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",DT.NFL.DPNG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net flows on external debt, public and publicly guaranteed (PPG) (NFL, current US$)",DT.NFL.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net flows on external debt, short-term (NFL, current US$)",DT.NFL.DSTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net flows on external debt, total (NFL, current US$)",DT.NFL.DECT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net foreign assets (current LCU),FM.AST.NFRG.CN,17254799998.4452,8839999999.396,7108889997.21411,29490901969.116,85242956074.8175,130312452381.884,72728253546.4,-94038214636.5304,188609151899.403,-56571280091.6399,268247185455.054,-457056837772.384,-48547790945.4814
+United States,USA,Net ODA provided to the least developed countries (% of GNI),DC.ODA.TLDC.GN.ZS,0.0282602319169323,0.040891921005386,0.0167532418024482,0.0423215824680921,0.0260564455765319,0.0356068204613842,0.0200702089727802,0.0174231433506045,0.0105046079468198,0.0376011230954712,0.0610576949356364,0.0493181228373702,..
+United States,USA,"Net ODA provided, to the least developed countries (current US$)",DC.ODA.TLDC.CD,144520000,284710000,167000000,660000000,691000000,1420000000,1092000000,1261000000,1042950000,4647010000,8936160000,9121880000,..
+United States,USA,"Net ODA provided, total (% of GNI)",DC.ODA.TOTL.GN.ZS,0.54,0.578,0.316,0.267,0.269,0.236,0.209,0.102,0.1,0.226,0.203,0.168,..
+United States,USA,"Net ODA provided, total (constant 2015 US$)",DC.ODA.TOTL.KD,17371063000,23659826000,15221738000,14594091000,17693252000,18069541000,18769767000,10758266000,13372310000,33404349000,32227810000,30985540000,..
+United States,USA,"Net ODA provided, total (current US$)",DC.ODA.TOTL.CD,2759800000,4022700000,3153000000,4160900000,7138000000,9403000000,11394000000,7367000000,9954890000,27934740000,29656360000,30985540000,..
+United States,USA,Net ODA received (% of central government expense),DT.ODA.ODAT.XP.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net ODA received (% of GNI),DT.ODA.ODAT.GN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net ODA received (% of gross capital formation),DT.ODA.ODAT.GI.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net ODA received (% of imports of goods, services and primary income)",DT.ODA.ODAT.MP.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net official aid received (constant 2015 US$),DT.ODA.OATL.KD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net official aid received (current US$),DT.ODA.OATL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net official development assistance received (constant 2015 US$),DT.ODA.ODAT.KD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Net official development assistance received (current US$),DT.ODA.ODAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, FAO (current US$)",DT.NFL.FAOG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, IAEA (current US$)",DT.NFL.IAEA.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, IFAD (current US$)",DT.NFL.IFAD.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, ILO (current US$)",DT.NFL.ILOG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, UNAIDS (current US$)",DT.NFL.UNAI.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, UNDP (current US$)",DT.NFL.UNDP.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, UNECE (current US$)",DT.NFL.UNEC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, UNFPA (current US$)",DT.NFL.UNFP.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, UNHCR (current US$)",DT.NFL.UNCR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, UNICEF (current US$)",DT.NFL.UNCF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, UNPBF (current US$)",DT.NFL.UNPB.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, UNRWA (current US$)",DT.NFL.UNRW.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, UNTA (current US$)",DT.NFL.UNTA.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, UNWTO (current US$)",DT.NFL.UNWT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, WFP (current US$)",DT.NFL.WFPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net official flows from UN agencies, WHO (current US$)",DT.NFL.WHOL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net primary income (BoP, current US$)",BN.GSR.FCTY.CD,..,..,6680000000,12790000000,29580000000,19787000000,28560000000,20899300000,18065000000,53895000000,168218000000,203610000000,253981000000
+United States,USA,Net primary income (Net income from abroad) (constant LCU),NY.GSR.NFCY.KN,-24006581511.2702,8275826564.19962,29061842100,42336723300,76949296600,44874127700,52268931500,37409359000,43308644000,85903166400,195720000000,209608166400,..
+United States,USA,Net primary income (Net income from abroad) (current LCU),NY.GSR.NFCY.CN,-3100000000.00002,-5299999999.99995,6393000000,13004000000,34185000000,25365000000,34692000000,27952000000,35024000000,77955000000,195720000000,226240000000,..
+United States,USA,Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,-3100000000.00002,-5299999999.99995,6393000000,13004000000,34185000000,25365000000,34692000000,27952000000,35024000000,77955000000,195720000000,226240000000,..
+United States,USA,"Net secondary income (BoP, current US$)",BN.TRF.CURR.CD,..,..,-3450000000,-4880000000,-8500000000,-23140000000,-26660000000,-38073300000,-49003000000,-84889000000,-104261000000,-112847000000,-117285000000
+United States,USA,Net secondary income (Net current transfers from abroad) (constant LCU),NY.TRF.NCTR.KN,-3230369875.08938,1113610482.68802,4033679658.97889,-586018010.758982,-20085577531.5492,-41579451137.0102,-78028576294.9503,-75270447429.5594,147831020208.753,127300000000,147969415024.758,..,..
+United States,USA,Net secondary income (Net current transfers from abroad) (current LCU),NY.TRF.NCTR.CN,-4129019648,-4700000256,-6618000000,-9142000000,-12618000000,-25652000000,-31734000000,-44050000000,-56417000000,-94084000000,-118539000000,-128885000000,..
+United States,USA,Net secondary income (Net current transfers from abroad) (current US$),NY.TRF.NCTR.CD,-4129019648,-4700000256,-6618000000,-9142000000,-12618000000,-25652000000,-31734000000,-44050000000,-56417000000,-94084000000,-118539000000,-128885000000,..
+United States,USA,"Net trade in goods (BoP, current US$)",BN.GSR.MRCH.CD,..,..,2590000000,8910000000,-25533000000,-122165000000,-111042000000,-174170000000,-446783000000,-782805000000,-648673000000,-761866000000,-887336000000
+United States,USA,"Net trade in goods and services (BoP, current US$)",BN.GSR.GNFS.CD,..,..,-610000000,9970000000,-18953000000,-121102000000,-80852000000,-96387000000,-372522000000,-714252000000,-495228000000,-498532000000,-627687000000
+United States,USA,"Net transfers on external debt, long-term (NTR, current US$)",DT.NTR.DLXF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net transfers on external debt, private nonguaranteed (PNG) (NTR, current US$)",DT.NTR.DPNG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net transfers on external debt, public and publicly guaranteed (PPG) (NTR, current US$)",DT.NTR.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Net transfers on external debt, total (NTR, current US$)",DT.NTR.DECT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Newborns protected against tetanus (%),SH.VAC.TTNS.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,..,..,..,..,..,..,..,6.92860278937681,-1.91407673121655,-3.451690347411,-8.3681304823025,..,..
+United States,USA,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,..,..,310995.1,347215.5,376718.2,356602.3,331851.9,354844.6,325500,320397.4,304082.1,..,..
+United States,USA,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,..,..,11.5628008891458,14.113646230079,16.2378591530752,17.5484663357471,20.6915575110463,21.7477697307497,25.3982558761905,22.7974144300172,..,..,..
+United States,USA,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,..,..,35959.744188,49004.767326,61170.97072,62578.234568,68665.32674,77170.78651,82671.322877,73042.323101,..,..,..
+United States,USA,Number of deaths ages 5-14 years,SH.DTH.0514,..,..,..,..,..,..,8615,..,7655,..,5549,5434,5599
+United States,USA,Number of infant deaths,SH.DTH.IMRT,109294,90011,68833,52324,42850,39441,36937,31327,28070,27785,25536,22726,21873
+United States,USA,Number of maternal deaths,SH.MMR.DTHS,..,..,..,..,..,..,..,..,470,560,600,680,..
+United States,USA,Number of neonatal deaths,SH.DTH.NMRT,..,..,51755,37727,28689,25963,22744,19696,18271,18607,16482,15084,13727
+United States,USA,"Number of surgical procedures (per 100,000 population)",SH.SGR.PROC.P5,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Number of under-five deaths,SH.DTH.MORT,126971,105577,81187,61877,50681,46779,43986,37415,33316,32681,30024,26635,25497
+United States,USA,"Nurses and midwives (per 1,000 people)",SH.MED.NUMW.P3,..,..,..,..,..,..,..,8.94,9.4673,9.9177,12.6078,8.55,..
+United States,USA,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,1,1,1,1,1,1,1,1,1,1,1,1,1
+United States,USA,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,..,..,0.378599255678097,1.38468551403802,3.06093268861604,1.29152972335506,0.760087047983154,0.309548796104259,0.311510303135632,0.32635619079921,0.31779861629785,0.00831026430596929,..
+United States,USA,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,..,..,..,..,..,..,..,-16.0373964164973,23.9804577361206,119.559122363175,120.230689681703,..,..
+United States,USA,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,..,..,-90110.50625,89818.8262499999,134115.6,159184.096875,210964.6,169692.40625,276514.70625,496922.90625,424330.86911148,..,..
+United States,USA,Other manufacturing (% of value added in manufacturing),NV.MNF.OTHR.ZS.UN,..,47.9148220293961,48.4147930377844,47.9728656669011,49.6648915443564,48.7605876921842,48.3522551073663,49.7747976466017,42.0002998239882,43.2632440979177,37.665681284627,37.946722157638,..
+United States,USA,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,..,..,..,..,..,..,..,..,15.46773895,13.85568348,12.20406904,11.13559489,..
+United States,USA,Out-of-pocket expenditure per capita (current US$),SH.XPD.OOPC.PC.CD,..,..,..,..,..,..,..,..,705.31163077,893.89543609,971.16677717,1060.59309779,..
+United States,USA,"Out-of-pocket expenditure per capita, PPP (current international $)",SH.XPD.OOPC.PP.CD,..,..,..,..,..,..,..,..,705.31163077,893.89543609,971.16677717,1060.59309779,..
+United States,USA,People practicing open defecation (% of population),SH.STA.ODFC.ZS,..,..,..,..,..,..,..,..,0,0,0,0,..
+United States,USA,"People practicing open defecation, rural (% of rural population)",SH.STA.ODFC.RU.ZS,..,..,..,..,..,..,..,..,0,0,0,0,..
+United States,USA,"People practicing open defecation, urban (% of urban population)",SH.STA.ODFC.UR.ZS,..,..,..,..,..,..,..,..,0,0,0,0,..
+United States,USA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,..,..,..,..,..,..,..,..,..,99.2095856995511,99.2332041673278,99.2583628830591,..
+United States,USA,"People using at least basic drinking water services, rural (% of rural population)",SH.H2O.BASW.RU.ZS,..,..,..,..,..,..,..,..,..,96.9727707102043,96.9727707102043,96.9727707102043,..
+United States,USA,"People using at least basic drinking water services, urban (% of urban population)",SH.H2O.BASW.UR.ZS,..,..,..,..,..,..,..,..,99.7713080995427,99.7713080995427,99.7713080995427,99.7713080995427,..
+United States,USA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,..,..,..,..,..,..,..,..,99.966820658955,99.9677495673152,99.9686484161633,99.9696072219909,..
+United States,USA,"People using at least basic sanitation services, rural (% of rural population)",SH.STA.BASS.RU.ZS,..,..,..,..,..,..,..,..,99.8825077292242,99.8825077292242,99.8825077292242,99.8825077292242,..
+United States,USA,"People using at least basic sanitation services, urban (% of urban population)",SH.STA.BASS.UR.ZS,..,..,..,..,..,..,..,..,99.9891560091086,99.9891560091086,99.9891560091086,99.9891560091086,..
+United States,USA,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,..,..,..,..,..,..,..,..,..,98.9423321117692,98.9658869554494,98.9909778979207,..
+United States,USA,"People using safely managed drinking water services, rural (% of rural population)",SH.H2O.SMDW.RU.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"People using safely managed drinking water services, urban (% of urban population)",SH.H2O.SMDW.UR.ZS,..,..,..,..,..,..,..,..,99.6660948659697,99.6660948659697,99.6660948659697,99.6660948659697,..
+United States,USA,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,..,..,..,..,..,..,..,..,88.1927713938516,88.7622279911886,89.3263609098093,89.8483291390204,..
+United States,USA,"People using safely managed sanitation services, rural (% of rural population)",SH.STA.SMSS.RU.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"People using safely managed sanitation services, urban (% of urban population)",SH.STA.SMSS.UR.ZS,..,..,..,..,..,..,..,..,94.51643169566,94.8565414807531,95.1966512658462,95.4687390939207,..
+United States,USA,People with basic handwashing facilities including soap and water (% of population),SH.STA.HYGN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"People with basic handwashing facilities including soap and water, rural (% of rural population)",SH.STA.HYGN.RU.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"People with basic handwashing facilities including soap and water, urban (% of urban population)",SH.STA.HYGN.UR.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Permanent cropland (% of land area),AG.LND.CROP.ZS,..,0.204499200782622,0.192707468970276,0.190632997632919,0.204062469974757,0.222077615799174,0.22928367412894,0.251120214522173,0.29469805455625,0.29469805455625,0.284233149893631,0.284233149893631,..
+United States,USA,"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT,..,..,650000000,590000000,1360000000,6330000000,11850000000,22181400000,34397000000,47254000000,50776000000,61859000000,68472000000
+United States,USA,"Personal remittances, received (% of GDP)",BX.TRF.PWKR.DT.GD.ZS,..,..,..,..,0.00279983914924088,0.00184375172131508,0.0196205223284898,0.0285218794491809,0.0428682394231892,0.0367809490464692,0.0395542899160189,0.0361045752157687,0.0325361933434501
+United States,USA,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,..,..,..,..,80000000,80000000,1170000000,2179000000,4395000000,4795000000,5930000000,6578000000,6668000000
+United States,USA,"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,..,..,..,..,..,..,20841.3,..,14739,9008.7,6362,..,..
+United States,USA,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1.1,1.2,1.2,1.3,1.5,..,1.8,2.434,2.5917,2.9401,2.4383,2.5858,..
+United States,USA,"Plant species (higher), threatened",EN.HPT.THRD.NO,..,..,..,..,..,..,..,..,..,..,..,..,510
+United States,USA,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,..,..,..,..,..,..,9.70166727025227,9.56639220192139,9.52513800350703,9.6098244651228,9.35863641019104,8.06392022206544,..
+United States,USA,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,..,..,..,..,..,..,47.9977370375362,44.694453712147,43.0813450802919,44.220561764174,38.2130323583238,8.46530650743068,..
+United States,USA,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",EN.ATM.PM25.MC.T1.ZS,..,..,..,..,..,..,0.00165738402471138,0.00178113858303464,0.0480812007024767,0.0501378437072209,0.0525020167761014,0.0515474597732268,..
+United States,USA,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",EN.ATM.PM25.MC.T2.ZS,..,..,..,..,..,..,0.0351253970467647,0.0351416365854895,0.177794617086424,0.181172484534808,0.185266269991002,0.104533778950666,..
+United States,USA,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",EN.ATM.PM25.MC.T3.ZS,..,..,..,..,..,..,0.435606724963844,0.408256632453408,0.470045399820984,0.485666603887358,0.479929998459305,0.356753675064103,..
+United States,USA,"PNG, bonds (AMT, current US$)",DT.AMT.PNGB.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, bonds (DIS, current US$)",DT.DIS.PNGB.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, bonds (DOD, current US$)",DT.DOD.PNGB.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, bonds (INT, current US$)",DT.INT.PNGB.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, bonds (NFL, current US$)",DT.NFL.PNGB.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, bonds (NTR, current US$)",DT.NTR.PNGB.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, bonds (TDS, current US$)",DT.TDS.PNGB.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, commercial banks and other creditors (AMT, current US$)",DT.AMT.PNGC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, commercial banks and other creditors (DIS, current US$)",DT.DIS.PNGC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, commercial banks and other creditors (DOD, current US$)",DT.DOD.PNGC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, commercial banks and other creditors (INT, current US$)",DT.INT.PNGC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, commercial banks and other creditors (NFL, current US$)",DT.NFL.PNGC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, commercial banks and other creditors (NTR, current US$)",DT.NTR.PNGC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PNG, commercial banks and other creditors (TDS, current US$)",DT.TDS.PNGC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Population ages 00-04, female (% of female population)",SP.POP.0004.FE.5Y,10.7748693853712,9.58451164030849,8.10018932313024,7.25213572030579,6.86775681410265,7.08774893009688,7.30983208991617,7.23430845652997,6.69025609816446,6.63065927440409,6.52696708072508,6.00793478586421,5.77175497739534
+United States,USA,"Population ages 00-04, male (% of male population)",SP.POP.0004.MA.5Y,11.4381657574772,10.213357205912,8.72431980651409,7.8483183575798,7.59641453243248,7.70932180494095,7.96659372226741,7.83547661924379,7.20725753008823,7.11841904407602,6.99951006124005,6.42208228065959,6.16244831397529
+United States,USA,Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,30.6910806308535,30.0679155376883,28.0974599130659,25.0051046129913,22.6731609131283,21.6005878590556,21.6744978683966,22.0152634365607,21.702880167839,20.8811342294238,20.2048008087726,19.2237265896844,18.7090399824651
+United States,USA,"Population ages 0-14, female",SP.POP.0014.FE.IN,27137240,28579979,28130719,26412992,24852895,24946879,26423657,28634878,29907093,30129872,30531256,30138100,29924614
+United States,USA,"Population ages 0-14, female (% of female population)",SP.POP.0014.FE.ZS,29.7695685450185,29.0964145009023,27.0322333672915,24.0641227720301,21.4605870323434,20.5809366880104,20.7574158505907,21.1402632769318,20.8879879573549,20.1281270547875,19.501338866698,18.5925591604973,18.1048535943438
+United States,USA,"Population ages 0-14, male",SP.POP.0014.MA.IN,28312643,29842881,29483683,27591284,26666196,26446104,27680873,29986926,31330276,31577348,31967461,31520595,31285314
+United States,USA,"Population ages 0-14, male (% of male population)",SP.POP.0014.MA.ZS,31.6295217709209,31.0611260292227,29.1951223079057,25.9775276589738,23.9335047146694,22.6595808912453,22.6288526173018,22.9212021836356,22.5423645339083,21.6540966834618,20.9257300149773,19.8686305754807,19.3259514439618
+United States,USA,"Population ages 0-14, total",SP.POP.0014.TO,55449882,58422862,57614404,54004275,51519090,51392983,54104532,58621803,61237370,61707218,62498719,61658695,61209886
+United States,USA,"Population ages 05-09, female (% of female population)",SP.POP.0509.FE.5Y,10.0245825367439,10.1024206749473,9.28665302074472,7.83554047641174,6.96889864371107,6.6519093409321,6.84344604235501,7.06965639674116,7.11895626566298,6.46213775609865,6.45334586048379,6.33032874281422,6.08819486317261
+United States,USA,"Population ages 05-09, male (% of male population)",SP.POP.0509.MA.5Y,10.6414268064108,10.787300478027,10.0549715254365,8.4118861996372,7.72323264485804,7.3599626507564,7.45608679958041,7.67756362074202,7.69053608697531,6.94138778953884,6.92013631266598,6.76478389448277,6.5016497692147
+United States,USA,"Population ages 10-14, female (% of female population)",SP.POP.1014.FE.5Y,8.97011662290343,9.40948218564654,9.64539102341659,8.97644657531252,7.62393157452973,6.84127841698141,6.60413771831953,6.83629842366065,7.07877559352746,7.03533002428476,6.52102592548918,6.25429563181884,6.24490375377582
+United States,USA,"Population ages 10-14, male (% of male population)",SP.POP.1014.MA.5Y,9.54992920703294,10.0604683452837,10.415830975955,9.71732310175677,8.61385753737885,7.59029643554793,7.20617209545403,7.40816194364974,7.6445709168448,7.59428984984696,7.00608364107127,6.6817644003384,6.66185336077181
+United States,USA,"Population ages 15-19, female (% of female population)",SP.POP.1519.FE.5Y,7.18072423079477,8.43553866471446,8.99589163644102,9.32644039023378,8.72647413596756,7.48852815202295,6.78412549098569,6.58934961817338,6.792866585464,7.00924075653308,6.90507186742216,6.46058215673327,6.30565568050364
+United States,USA,"Population ages 15-19, male (% of male population)",SP.POP.1519.MA.5Y,7.51998025047983,8.90908758617641,9.59099691455987,10.0036698291326,9.76274353706911,8.42739946219849,7.46439683905103,7.18876613896797,7.3677752952784,7.62249383503242,7.46826947038059,6.88868873474383,6.69996338459595
+United States,USA,Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,60.19319531751,60.4716182162491,61.8517252321417,64.2644426929989,65.7702971871341,66.2677446854691,65.6977181477276,65.3222260833584,65.9633805661392,66.8071542766919,66.8134265887699,66.1333886980394,65.4833059619314
+United States,USA,"Population ages 15-64, female",SP.POP.1564.FE.IN,54890913,59170827,63924067,69581233,75403749,79104742,82140645,86902019,92884214,98657753,103264650,105762389,106735771
+United States,USA,"Population ages 15-64, female (% of female population)",SP.POP.1564.FE.ZS,60.2153638349607,60.2400342262568,61.427875588098,63.3934743211545,65.1114777225736,65.2606557281118,64.5265537264886,64.1571294465698,64.8730494888797,65.907872119329,65.9586005699634,65.2460999099375,64.576790382131
+United States,USA,"Population ages 15-64, male",SP.POP.1564.MA.IN,53860737,58327340,62904136,69212610,74042805,78562130,81855969,87036698,93239646,98768475,103406708,106355609,107504274
+United States,USA,"Population ages 15-64, male (% of male population)",SP.POP.1564.MA.ZS,60.1706223898532,60.708375874041,62.2884851484562,65.1645105627714,66.4550673397618,67.3136927982163,66.9164831644242,66.5285174516519,67.0866133356733,67.7302643015539,67.6894810469317,67.0399868199102,66.4088716329403
+United States,USA,"Population ages 15-64, total",SP.POP.1564.TO,108751648,117498168,126828200,138793845,149446558,157666869,163996615,173938717,186123865,197426230,206671357,212117999,214240052
+United States,USA,"Population ages 20-24, female (% of female population)",SP.POP.2024.FE.5Y,6.14358026318404,6.8933634572671,8.09155469941018,8.74077590014181,9.08198138255007,8.49401913374776,7.32133313218889,6.62944969094497,6.52674151118418,6.73898688782742,6.79957096572781,6.95553920977277,6.72341594882102
+United States,USA,"Population ages 20-24, male (% of male population)",SP.POP.2024.MA.5Y,6.20607246724002,7.01171574506285,7.98668104890563,9.22296493848087,9.71329355590902,9.33614114953065,8.12217446415928,7.13938354573221,6.99465834882201,7.24286528170966,7.27732506149134,7.44023892163851,7.13941249134994
+United States,USA,"Population ages 25-29, female (% of female population)",SP.POP.2529.FE.5Y,5.99896074691375,5.80201527112382,6.54811735530495,7.84210232716764,8.47946114601859,8.80519764435271,8.14256603956495,7.15311857930103,6.66208037944859,6.47132829360208,6.58167468570237,6.82661467950493,6.97818468943972
+United States,USA,"Population ages 25-29, male (% of male population)",SP.POP.2529.MA.5Y,6.21478282024367,6.02969252377238,6.8745879209525,8.11543187235881,8.88543695477557,9.41145773896689,8.8602552212475,7.74124632607822,7.03505353369118,6.69523561281267,6.86802142782583,7.23438759916768,7.41386953889707
+United States,USA,"Population ages 30-34, female (% of female population)",SP.POP.3034.FE.5Y,6.58522461232553,5.63327577655059,5.57344505507533,6.4131861262141,7.65928376057242,8.2760903614653,8.56916938534703,8.06796427434852,7.06288184947441,6.55978646418868,6.34592424954184,6.53493797606679,6.68134188704712
+United States,USA,"Population ages 30-34, male (% of male population)",SP.POP.3034.MA.5Y,6.68399066303773,5.94583541680916,5.89966703009915,6.7165419021599,7.81571429432214,8.6316113916244,9.01742723007218,8.69076916403655,7.57940590878796,6.79570818825316,6.51140603250449,6.77049171310615,6.99502752544046
+United States,USA,"Population ages 35-39, female (% of female population)",SP.POP.3539.FE.5Y,6.86309966690574,6.1358565617337,5.36758907979016,5.32907784827591,6.11092966365113,7.29683466780996,7.89272423236862,8.23807431516387,7.7838716077612,6.89111628310009,6.40207174707093,6.23201540202668,6.32704218383546
+United States,USA,"Population ages 35-39, male (% of male population)",SP.POP.3539.MA.5Y,6.92155370473105,6.25485928494958,5.6294345636571,5.60033523446861,6.02841856877098,7.39608162336841,8.18981302152185,8.62228291057773,8.25018087858724,7.25633732851091,6.53523198308692,6.35795989393904,6.48638722368124
+United States,USA,"Population ages 40-44, female (% of female population)",SP.POP.4044.FE.5Y,6.3979164073169,6.36738473363401,5.81179866547898,5.10667278160024,5.11638201969315,5.8646295209647,7.0337751863648,7.52916027560713,7.82631671869513,7.48416862490098,6.62963615110864,6.22518290510998,6.10017496012686
+United States,USA,"Population ages 40-44, male (% of male population)",SP.POP.4044.MA.5Y,6.42689040116721,6.41483580252957,5.95900864193234,5.39812197823718,5.26699443846348,5.77409639440158,7.09640219645667,7.72355655777619,8.08099861180603,7.8097436758818,6.92029292008022,6.31817213254935,6.1747321236972
+United States,USA,"Population ages 45-49, female (% of female population)",SP.POP.4549.FE.5Y,6.05047546561103,5.89476618472294,5.96912920285325,5.4790771221253,4.86326067543931,4.84916431446164,5.51135747952283,6.56413555477856,7.14479129478372,7.47257889734805,7.14455502681419,6.3886923261335,6.13377514718993
+United States,USA,"Population ages 45-49, male (% of male population)",SP.POP.4549.MA.5Y,6.01432687682651,5.88121522333536,6.03198587694448,5.58229841271421,4.81455581640184,4.97464572895882,5.41591342853896,6.53586354895976,7.23392917642309,7.61352758370154,7.38805371123205,6.61861358402488,6.25069390302579
+United States,USA,"Population ages 50-54, female (% of female population)",SP.POP.5054.FE.5Y,5.61752764845436,5.47901279695401,5.46300726780257,5.56620890797017,5.1920242061837,4.59256205873941,4.57584448543729,5.21165942180601,6.26755735805288,6.80635962441413,7.14568226063693,6.82123377985736,6.39457538886147
+United States,USA,"Population ages 50-54, male (% of male population)",SP.POP.5054.MA.5Y,5.43991055209002,5.40324287643647,5.42316741609777,5.52795962150278,5.00559527221138,4.49035176892225,4.63320111437573,5.03714655609203,6.15784895745068,6.78355785977559,7.18366661990286,6.97472123127886,6.57490714558807
+United States,USA,"Population ages 55-59, female (% of female population)",SP.POP.5559.FE.5Y,5.11763256304259,5.15977776227049,5.04948487712101,5.05139282647087,5.22710962199359,4.83064005459813,4.26109143965609,4.25662172385282,4.85785221540674,5.93397999167852,6.4553337050413,6.75928806886757,6.65767761006597
+United States,USA,"Population ages 55-59, male (% of male population)",SP.POP.5559.MA.5Y,4.88078328579031,4.83373546505079,4.82073841250896,4.8476448238772,4.90598700258764,4.54508755398827,4.08373162423603,4.2070699523949,4.59424404972938,5.71974222838041,6.30388810341279,6.67972926907076,6.65465397689375
+United States,USA,"Population ages 60-64, female (% of female population)",SP.POP.6064.FE.5Y,4.26022223041197,4.43904301728563,4.55785774882052,4.53854009095465,4.65457111050411,4.76298981994921,4.4345668550524,3.91759599259346,3.94808996860888,4.54032629573596,5.54907991089725,6.0420134058646,6.27494688623985
+United States,USA,"Population ages 60-64, male (% of male population)",SP.POP.6064.MA.5Y,3.86233136824685,4.02415594991841,4.07221732279841,4.14954194983918,4.25632789925065,4.32681998625646,4.03316802476497,3.6424327510363,3.79251857509731,4.19105270749568,5.2333257170146,5.7569837403912,6.01922431977083
+United States,USA,Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,9.1157240516365,9.46046624606258,10.0508148547925,10.7304526940099,11.5565418997375,12.1316674554753,12.6277839838757,12.6625104800809,12.3337392660218,12.3117114938844,12.9817726024576,14.6428847122761,15.8076540556035
+United States,USA,"Population ages 65 and above, female",SP.POP.65UP.FE.IN,9129501,10474283,12008828,13766651,15550510,17161905,18733129,19914954,20387123,20902768,22763889,26197152,28624651
+United States,USA,"Population ages 65 and above, female (% of female population)",SP.POP.65UP.FE.ZS,10.0150676200208,10.6635512728409,11.5398910446105,12.5424029068155,13.4279352450829,14.1584075838779,14.7160304229207,14.7026072764985,14.2389625537654,13.9640008258835,14.5400605633385,16.1613409295653,17.3183560235252
+United States,USA,"Population ages 65 and above, male",SP.POP.65UP.MA.IN,7339965,7907691,8600567,9408229,10708846,11702240,12788727,13802526,14414059,15480384,17392120,20768828,23092810
+United States,USA,"Population ages 65 and above, male (% of male population)",SP.POP.65UP.MA.ZS,8.19985583922586,8.23049809673629,8.51639254363809,8.85796177825483,9.6114279455688,10.0267263105385,10.454664218274,10.5502803647126,10.3710221304184,10.6156390149843,11.384788938091,13.091382604609,14.2651769230979
+United States,USA,"Population ages 65 and above, total",SP.POP.65UP.TO,16469470,18381970,20609397,23174881,26259352,28864148,31521853,33717480,34801176,36383151,40156009,46965980,51717496
+United States,USA,"Population ages 65-69, female (% of female population)",SP.POP.6569.FE.5Y,3.60394241934144,3.63923760097931,3.93717586597371,4.15236179160225,4.16478181811746,4.23680437035745,4.31934565377269,3.99132470151879,3.54763757333141,3.62435368095449,4.1796129385957,5.10923266366909,5.42387225393327
+United States,USA,"Population ages 65-69, male (% of male population)",SP.POP.6569.MA.5Y,3.21368895642902,3.07557938178317,3.30440575125582,3.37311770663923,3.63856750864468,3.6336274712848,3.68228314396758,3.45554417917545,3.15545394306096,3.36828442493516,3.74679569108133,4.6731868702076,4.9887609103459
+United States,USA,"Population ages 70-74, female (% of female population)",SP.POP.7074.FE.5Y,2.75778461149674,2.95975750683611,3.03269127226887,3.22122744528837,3.52858867995744,3.54003037710919,3.61085749412955,3.67174960734341,3.42959154630782,3.13139407571247,3.20489327662825,3.74377172119681,4.27303377422737
+United States,USA,"Population ages 70-74, male (% of male population)",SP.POP.7074.MA.5Y,2.3242168503022,2.35669960013971,2.27771116480271,2.44498479316699,2.6067175153696,2.80562051595619,2.86494094388337,2.9430989328501,2.79537951093497,2.65311253227279,2.8563790098624,3.22518719285467,3.72712140439293
+United States,USA,"Population ages 75-79, female (% of female population)",SP.POP.7579.FE.5Y,1.99166504334234,2.09288097147329,2.26479944739161,2.41789470769492,2.68234219955032,2.88451136414822,2.89897898869166,2.94720003126811,3.02605763947428,2.84861221879853,2.6171524105614,2.74259386162681,2.97145920570329
+United States,USA,"Population ages 75-79, male (% of male population)",SP.POP.7579.MA.5Y,1.52262656338568,1.57871787222058,1.58828746680872,1.56358537489139,1.91137125787787,1.8552264338156,2.04174035617977,2.11484918190655,2.20045334159768,2.16022906834912,2.08580107411718,2.31244531096651,2.44907815293887
+United States,USA,"Population ages 80 and above, female (% of female population)",SP.POP.80UP.FE.5Y,1.66167554584033,1.9716751935522,2.30522445897631,2.75091896222992,3.0522225474577,3.49706147226299,3.88684828632681,4.09233293636814,4.23567579465188,4.35964085041804,4.53840193755318,4.56574268307258,4.64999078966128
+United States,USA,"Population ages 80 and above, male (% of male population)",SP.POP.80UP.MA.5Y,1.13932346910898,1.21950124259283,1.34598816077084,1.47627390355722,1.45477166367664,1.73225188948186,1.86569977424325,2.03678807078047,2.21973533482479,2.43401298942726,2.69581316303009,2.88056323058023,3.10021645542017
+United States,USA,Population density (people per sq. km of land area),EN.POP.DNST,..,21.2145265401312,22.3881314035655,23.5805156917379,24.8090394542612,25.9771851825972,27.2545136128993,29.0729515141457,30.7973013298523,32.2548765979183,33.815664416852,35.0637308661896,35.766088580168
+United States,USA,Population growth (annual %),SP.POP.GROW,1.70199277744096,1.25017164562845,1.16500266687286,0.985986067347125,0.959589922764484,0.886129040850881,1.12965052045579,1.19078709090209,1.11276899679534,0.921713167161207,0.829274641418094,0.737335445117428,0.619431053430858
+United States,USA,Population in largest city,EN.URB.LCTY,14163521,15176758,16191180,15880271,15601401,15826788,16085599,16942770,17813371,18087174,18365262,18647626,18819361
+United States,USA,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,11.1997817724156,10.866695002006,10.7281509547958,9.98315942668825,9.31142462740532,8.92962532168056,8.55771193530894,8.23590427212843,7.98558296300756,7.65755087900806,7.35054850059055,7.11867119381701,6.99305941298036
+United States,USA,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,69978587,77253309,85290017,89041091,93466126,98962536,105216000,113943290,123562801,130243458,137660260,145920115,151340879
+United States,USA,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.7326062290019,39.759195174547,41.5943355831691,41.2278807999148,41.1337335240401,41.5941796540072,42.1499621429115,42.7911017808456,43.7913755280465,44.0731446019382,44.5032820300299,45.4944500010449,46.2579288988769
+United States,USA,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,..,..,..,..,..,..,2.574566261,..,2.5023639,..,2.512555129,..,..
+United States,USA,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Population, female",SP.POP.TOTL.FE.IN,91157654,98225088,104063613,109760877,115807153,121213526,127297431,135451850,143178430,149690393,156559796,162097641,165285036
+United States,USA,"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,50.4550559159069,50.5525330057131,50.7498649012039,50.821573731207,50.9658502514159,50.9463216983171,50.9958743545725,50.8685846305057,50.743268682874,50.6538020129792,50.6131890528633,50.5382211684035,50.5200146539124
+United States,USA,"Population, male",SP.POP.TOTL.MA.IN,89513346,96077912,100988387,106212123,111417847,116710474,122325569,130826150,138983981,145826206,152766289,158645032,161882398
+United States,USA,"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,49.5449440840931,49.4474669942869,49.2501350987961,49.178426268793,49.0341497485841,49.0536783016829,49.0041256454275,49.1314153694943,49.256731317126,49.3461979870208,49.3868109471367,49.4617788315964,49.4799853460876
+United States,USA,"Population, total",SP.POP.TOTL,180671000,194303000,205052000,215973000,227225000,237924000,249623000,266278000,282162411,295516599,309326085,320742673,327167434
+United States,USA,"Portfolio equity, net inflows (BoP, current US$)",BX.PEF.TOTL.CD.WD,..,..,700000000,3050000000,4240000000,4330000000,-15960000000,16523000000,193600000000,89258000000,178953000000,-187307000000,142397000000
+United States,USA,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Portfolio investment, net (BoP, current US$)",BN.KLT.PTXL.CD,..,..,-1170000000,-4900000000,-10580000000,-68540000000,6761000000,-87957800000,-282253000000,-564748000000,-620815000000,-53498000000,18363000000
+United States,USA,"PPG, bilateral (AMT, current US$)",DT.AMT.BLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral (DIS, current US$)",DT.DIS.BLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral (DOD, current US$)",DT.DOD.BLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral (INT, current US$)",DT.INT.BLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral (NTR, current US$)",DT.NTR.BLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral (TDS, current US$)",DT.TDS.BLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral concessional (AMT, current US$)",DT.AMT.BLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral concessional (DIS, current US$)",DT.DIS.BLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral concessional (DOD, current US$)",DT.DOD.BLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral concessional (INT, current US$)",DT.INT.BLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral concessional (NFL, current US$)",DT.NFL.BLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral concessional (NTR, current US$)",DT.NTR.BLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bilateral concessional (TDS, current US$)",DT.TDS.BLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bonds (AMT, current US$)",DT.AMT.PBND.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bonds (DIS, current US$)",DT.DIS.PBND.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bonds (DOD, current US$)",DT.DOD.PBND.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bonds (INT, current US$)",DT.INT.PBND.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bonds (NFL, current US$)",DT.NFL.PBND.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bonds (NTR, current US$)",DT.NTR.PBND.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, bonds (TDS, current US$)",DT.TDS.PBND.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, commercial banks (AMT, current US$)",DT.AMT.PCBK.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, commercial banks (DIS, current US$)",DT.DIS.PCBK.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, commercial banks (DOD, current US$)",DT.DOD.PCBK.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, commercial banks (INT, current US$)",DT.INT.PCBK.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, commercial banks (NFL, current US$)",DT.NFL.PCBK.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, commercial banks (NTR, current US$)",DT.NTR.PCBK.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, commercial banks (TDS, current US$)",DT.TDS.PCBK.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IBRD (AMT, current US$)",DT.AMT.MIBR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IBRD (DIS, current US$)",DT.DIS.MIBR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IBRD (DOD, current US$)",DT.DOD.MIBR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IBRD (INT, current US$)",DT.INT.MIBR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IBRD (NTR, current US$)",DT.NTR.MIBR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IBRD (TDS, current US$)",DT.TDS.MIBR.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IDA (AMT, current US$)",DT.AMT.MIDA.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IDA (DIS, current US$)",DT.DIS.MIDA.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IDA (DOD, current US$)",DT.DOD.MIDA.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IDA (INT, current US$)",DT.INT.MIDA.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IDA (NTR, current US$)",DT.NTR.MIDA.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, IDA (TDS, current US$)",DT.TDS.MIDA.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral (AMT, current US$)",DT.AMT.MLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral (DIS, current US$)",DT.DIS.MLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral (DOD, current US$)",DT.DOD.MLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral (INT, current US$)",DT.INT.MLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral (NTR, current US$)",DT.NTR.MLAT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral concessional (AMT, current US$)",DT.AMT.MLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral concessional (DIS, current US$)",DT.DIS.MLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral concessional (DOD, current US$)",DT.DOD.MLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral concessional (INT, current US$)",DT.INT.MLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral concessional (NFL, current US$)",DT.NFL.MLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral concessional (NTR, current US$)",DT.NTR.MLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, multilateral concessional (TDS, current US$)",DT.TDS.MLTC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, official creditors (AMT, current US$)",DT.AMT.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, official creditors (DIS, current US$)",DT.DIS.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, official creditors (DOD, current US$)",DT.DOD.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, official creditors (INT, current US$)",DT.INT.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, official creditors (NFL, current US$)",DT.NFL.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, official creditors (NTR, current US$)",DT.NTR.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, official creditors (TDS, current US$)",DT.TDS.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, other private creditors (AMT, current US$)",DT.AMT.PROP.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, other private creditors (DIS, current US$)",DT.DIS.PROP.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, other private creditors (DOD, current US$)",DT.DOD.PROP.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, other private creditors (INT, current US$)",DT.INT.PROP.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, other private creditors (NFL, current US$)",DT.NFL.PROP.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, other private creditors (NTR, current US$)",DT.NTR.PROP.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, other private creditors (TDS, current US$)",DT.TDS.PROP.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, private creditors (AMT, current US$)",DT.AMT.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, private creditors (DIS, current US$)",DT.DIS.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, private creditors (DOD, current US$)",DT.DOD.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, private creditors (INT, current US$)",DT.INT.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, private creditors (NFL, current US$)",DT.NFL.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, private creditors (NTR, current US$)",DT.NTR.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPG, private creditors (TDS, current US$)",DT.TDS.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"PPP conversion factor, GDP (LCU per international $)",PA.NUS.PPP,..,..,..,..,..,..,1,1,1,1,1,1,1
+United States,USA,"PPP conversion factor, private consumption (LCU per international $)",PA.NUS.PRVT.PP,..,..,..,..,..,..,1,1,1,1,1,1,1
+United States,USA,Pregnant women receiving prenatal care (%),SH.STA.ANVC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Present value of external debt (% of exports of goods, services and primary income)",DT.DOD.PVLX.EX.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Present value of external debt (% of GNI),DT.DOD.PVLX.GN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Present value of external debt (current US$),DT.DOD.PVLX.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Prevalence of anemia among children (% of children under 5),SH.ANM.CHLD.ZS,..,..,..,..,..,..,14.5,7.6,6.2,6.1,6.3,7.8,..
+United States,USA,Prevalence of anemia among non-pregnant women (% of women ages 15-49),SH.ANM.NPRG.ZS,..,..,..,..,..,..,12,8.5,7.5,8.3,10.1,12.3,..
+United States,USA,Prevalence of anemia among pregnant women (%),SH.PRG.ANEM,..,..,..,..,..,..,16.1,14.1,12,12.1,13.9,15.8,..
+United States,USA,Prevalence of anemia among women of reproductive age (% of women ages 15-49),SH.ANM.ALLW.ZS,..,..,..,..,..,..,12.1,8.7,7.7,8.4,10.2,12.4,..
+United States,USA,"Prevalence of HIV, female (% ages 15-24)",SH.HIV.1524.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Prevalence of HIV, male (% ages 15-24)",SH.HIV.1524.MA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,..,..,..,..,..,..,..,..,..,..,0.4,0.4,..
+United States,USA,"Prevalence of overweight, weight for height (% of children under 5)",SH.STA.OWGH.ZS,..,..,..,..,..,..,..,..,..,8.1,..,..,..
+United States,USA,"Prevalence of overweight, weight for height, female (% of children under 5)",SH.STA.OWGH.FE.ZS,..,..,..,..,..,..,..,..,..,8.69999980926514,..,..,..
+United States,USA,"Prevalence of overweight, weight for height, male (% of children under 5)",SH.STA.OWGH.MA.ZS,..,..,..,..,..,..,..,..,..,7.5,..,..,..
+United States,USA,"Prevalence of severe wasting, weight for height (% of children under 5)",SH.SVR.WAST.ZS,..,..,..,..,..,..,..,..,..,0.1,..,..,..
+United States,USA,"Prevalence of severe wasting, weight for height, female (% of children under 5)",SH.SVR.WAST.FE.ZS,..,..,..,..,..,..,..,..,..,0,..,..,..
+United States,USA,"Prevalence of severe wasting, weight for height, male (% of children under 5)",SH.SVR.WAST.MA.ZS,..,..,..,..,..,..,..,..,..,0.100000001490116,..,..,..
+United States,USA,"Prevalence of stunting, height for age (% of children under 5)",SH.STA.STNT.ZS,..,..,..,..,..,..,..,..,..,3.2,..,..,..
+United States,USA,"Prevalence of stunting, height for age, female (% of children under 5)",SH.STA.STNT.FE.ZS,..,..,..,..,..,..,..,..,..,2.40000009536743,..,..,..
+United States,USA,"Prevalence of stunting, height for age, male (% of children under 5)",SH.STA.STNT.MA.ZS,..,..,..,..,..,..,..,..,..,3.90000009536743,..,..,..
+United States,USA,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,..,..,..,..,..,..,..,..,2.5,2.5,2.5,2.5,..
+United States,USA,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,..,..,..,..,..,..,..,..,..,1.1,..,..,..
+United States,USA,"Prevalence of underweight, weight for age, female (% of children under 5)",SH.STA.MALN.FE.ZS,..,..,..,..,..,..,..,..,..,0.899999976158142,..,..,..
+United States,USA,"Prevalence of underweight, weight for age, male (% of children under 5)",SH.STA.MALN.MA.ZS,..,..,..,..,..,..,..,..,..,1.29999995231628,..,..,..
+United States,USA,"Prevalence of wasting, weight for height (% of children under 5)",SH.STA.WAST.ZS,..,..,..,..,..,..,..,..,..,0.8,..,..,..
+United States,USA,"Prevalence of wasting, weight for height, female (% of children under 5)",SH.STA.WAST.FE.ZS,..,..,..,..,..,..,..,..,..,0.800000011920929,..,..,..
+United States,USA,"Prevalence of wasting, weight for height, male (% of children under 5)",SH.STA.WAST.MA.ZS,..,..,..,..,..,..,..,..,..,0.800000011920929,..,..,..
+United States,USA,Price level ratio of PPP conversion factor (GDP) to market exchange rate,PA.NUS.PPPC.RF,..,..,..,..,..,..,1,1,1,1,1,1,1
+United States,USA,"Primary income on FDI, payments (current US$)",BX.KLT.DREM.CD.DT,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Primary income payments (BoP, current US$)",BM.GSR.FCTY.CD,..,..,5070000000,12580000000,43090000000,73944000000,143190000000,189364700000,338639000000,480319000000,511948000000,606465000000,830203000000
+United States,USA,"Primary income receipts (BoP, current US$)",BX.GSR.FCTY.CD,..,..,11750000000,25370000000,72670000000,93731000000,171750000000,210264000000,356704000000,534214000000,680166000000,810075000000,1084184000000
+United States,USA,"Principal arrears, long-term DOD (US$)",DT.AXA.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Principal arrears, official creditors (current US$)",DT.AXA.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Principal arrears, private creditors (current US$)",DT.AXA.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Principal forgiven (current US$),DT.AXF.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Principal repayments on external debt, long-term (AMT, current US$)",DT.AMT.DLXF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Principal repayments on external debt, long-term + IMF (AMT, current US$)",DT.AMT.DLTF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)",DT.AMT.DPNG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Principal repayments on external debt, public and publicly guaranteed (PPG) (AMT, current US$)",DT.AMT.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Principal rescheduled (current US$),DT.AXR.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Principal rescheduled, official (current US$)",DT.AXR.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Principal rescheduled, private (current US$)",DT.AXR.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Probability of dying at age 5-14 years (per 1,000 children age 5)",SH.DYN.0514,..,..,..,..,..,..,2.4,..,1.8,..,1.3,1.3,1.3
+United States,USA,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)",DT.TDS.DPPG.XP.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Public and publicly guaranteed debt service (% of GNI),DT.TDS.DPPG.GN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Real effective exchange rate index (2010 = 100),PX.REX.REER,..,..,..,..,106.168531383957,150.657021786545,105.977559075323,100.878780892626,119.465421059582,110.842573284867,100,109.854893641988,112.962951431942
+United States,USA,Real interest rate (%),FR.INR.RINR,..,2.5659131262603,2.28032119858687,-1.28142703497011,5.71642832840193,6.56332629234802,6.03974437600457,6.59406889916452,6.84484418308301,2.98135677955621,2.06073670870918,2.16748056788984,..
+United States,USA,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,..,..,..,..,..,..,11.5286468488794,10.801084989942,8.20599694228722,8.57846553445898,10.1203551472397,13.2285932109672,..
+United States,USA,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,..,..,..,..,..,..,4.17546218583434,4.72655433519206,5.42962368850183,5.84109087259038,7.5051720554451,8.71693586705814,..
+United States,USA,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Reserves and related items (BoP, current US$)",BN.RES.INCL.CD,..,..,-1697710000,768880112.120178,8144258286.23216,3835177864.41394,2232799984.91158,9747268257.98911,294855660.020589,-14084605634.4231,1825049366.96756,-6304565601.21119,5004277776.37853
+United States,USA,"Residual, debt stock-flow reconciliation (current US$)",DT.DOD.RSDL.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Risk of catastrophic expenditure for surgical care (% of people at risk),SH.SGR.CRSK.ZS,..,..,..,..,..,..,..,..,..,1,0.8,0.7,..
+United States,USA,Risk of impoverishing expenditure for surgical care (% of people at risk),SH.SGR.IRSK.ZS,..,..,..,..,..,..,..,..,..,0.2,0.2,0.2,..
+United States,USA,"Risk premium on lending (lending rate minus treasury bill rate, %)",FR.INR.RISK,1.87416666666666,0.58666666666667,1.47333333333333,2.0375,3.6508333333333,2.44416666666666,2.4991666666667,3.31583333333334,3.39416666666666,3.0375,3.11583333333333,3.20083333333333,..
+United States,USA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,..,..,..,..,..,..,8549545.51,..,8549545.51,..,8549545.51,..,..
+United States,USA,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,..,..,..,..,..,..,0.980329212,..,0.980329212,..,0.980329212,..,..
+United States,USA,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,..,..,..,..,..,..,91676.45777,..,91676.45777,..,91676.45777,..,..
+United States,USA,Rural population,SP.RUR.TOTL,54208527,54639947,54129627,56902406,59673829,60684895,61656881,60559606,59093274,59316092,59477220,58788925,58052589
+United States,USA,Rural population (% of total population),SP.RUR.TOTL.ZS,30.004,28.121,26.398,26.347,26.262,25.506,24.7,22.743,20.943,20.072,19.228,18.329,17.744
+United States,USA,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.0195374527151411,-0.0604996895264814,0.151142360094357,0.9480373479402,0.784584960237542,0.299753937179451,0.279027731366681,-0.474899093415709,-0.380113564334052,0.0733898148736528,-0.0303431493087041,-0.28313688732054,-0.490259270688308
+United States,USA,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,..,..,..,..,..,..,0.245736835,..,0.256448839,..,0.248613272,..,..
+United States,USA,S&P Global Equity Indices (annual % change),CM.MKT.INDX.ZG,..,..,..,..,..,..,-6.55913978494622,34.1106538637403,-10.1391866598605,3.00158236936154,12.7820791594404,-0.726601583369757,-6.2372598219685
+United States,USA,"Secondary income receipts (BoP, current US$)",BX.TRF.CURR.CD,..,..,380000000,720000000,1320000000,2500000000,10040000000,8625900000,37621000000,65595000000,90784000000,130524000000,150191000000
+United States,USA,"Secondary income, other sectors, payments (BoP, current US$)",BM.TRF.PRVT.CD,..,..,1480000000,1640000000,2480000000,12140000000,18810000000,32058200000,65084000000,110565000000,142728000000,189988000000,211444000000
+United States,USA,"Service exports (BoP, current US$)",BX.GSR.NFSV.CD,..,..,11450000000,23330000000,47550000000,73093000000,147860000000,219193000000,290382000000,373004000000,562756000000,755306000000,826975000000
+United States,USA,"Service imports (BoP, current US$)",BM.GSR.NFSV.CD,..,..,14650000000,22270000000,40970000000,72030000000,117670000000,141410000000,216121000000,304451000000,409311000000,491972000000,567326000000
+United States,USA,"Services, value added (% of GDP)",NV.SRV.TOTL.ZS,..,..,..,..,..,..,..,..,72.8162344920374,74.0160024784251,76.2062985572636,76.8170680975689,..
+United States,USA,"Services, value added (annual % growth)",NV.SRV.TOTL.KD.ZG,..,..,..,..,..,..,..,..,3.73504286820805,4.02458527063078,2.29019256543521,2.86383285882582,..
+United States,USA,"Services, value added (constant 2010 US$)",NV.SRV.TOTL.KD,..,..,..,..,..,..,..,..,9386863371700,10785654092800,11424888461000,12645171589100,..
+United States,USA,"Services, value added (constant LCU)",NV.SRV.TOTL.KN,..,..,..,..,..,..,..,..,9386863371700,10785654092800,11424888461000,12645171589100,..
+United States,USA,"Services, value added (current LCU)",NV.SRV.TOTL.CN,..,..,..,..,..,..,..,..,7465371914000,9649199955000,11424888461000,13995530232000,..
+United States,USA,"Services, value added (current US$)",NV.SRV.TOTL.CD,..,..,..,..,..,..,..,..,7521083223000,9732334988000,11378605818000,13833366538000,..
+United States,USA,"Services, value added per worker (constant 2010 US$)",NV.SRV.EMPL.KD,..,..,..,..,..,..,..,..,90072.7066971046,97896.6476966288,102067.487819032,105573.113649747,..
+United States,USA,Sex ratio at birth (male births per female births),SP.POP.BRTH.MF,..,..,..,..,..,..,1.049,..,..,..,1.048,1.047,..
+United States,USA,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,..,..,..,..,..,..,42182.5,..,45930.1,41952.9,41202,..,..
+United States,USA,"Short-term debt (% of exports of goods, services and primary income)",DT.DOD.DSTC.XP.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Short-term debt (% of total external debt),DT.DOD.DSTC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Short-term debt (% of total reserves),DT.DOD.DSTC.IR.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Smoking prevalence, females (% of adults)",SH.PRV.SMOK.FE,..,..,..,..,..,..,..,..,28.4,25,22,19.6,..
+United States,USA,"Smoking prevalence, males (% of adults)",SH.PRV.SMOK.MA,..,..,..,..,..,..,..,..,34.5,31,27.8,25.1,..
+United States,USA,"Smoking prevalence, total (ages 15+)",SH.PRV.SMOK,..,..,..,..,..,..,..,..,31.4,27.9,24.8,22.3,..
+United States,USA,"Specialist surgical workforce (per 100,000 population)",SH.MED.SAOP.P5,..,..,..,..,..,..,..,..,..,..,..,54.71,..
+United States,USA,"Stocks traded, total value (% of GDP)",CM.MKT.TRAD.GD.ZS,..,..,..,..,..,33.8508898061042,34.0776006750801,67.7853526339674,290.490071804315,197.843855832006,240.296501112578,227.223370051081,161.154896628786
+United States,USA,"Stocks traded, total value (current US$)",CM.MKT.TRAD.CD,..,..,..,..,..,1468783000000,2032096400000,5178630800000,29782045700000,25792191700000,36025378147933.8,41398501970000,33027245670000
+United States,USA,"Stocks traded, turnover ratio of domestic shares (%)",CM.MKT.TRNR,..,..,..,..,..,63.8363194876137,65.6903258612516,74.4909584630437,197.130901217527,151.711060019997,208.438562012596,165.147847098644,108.512636257038
+United States,USA,"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,..,..,..,..,..,..,..,..,11.3,11.9,13.2,15,..
+United States,USA,"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,..,..,..,..,..,..,..,..,4.9,5.4,5.9,7.1,..
+United States,USA,"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,..,..,..,..,..,..,..,..,17.9,18.6,20.7,23,..
+United States,USA,Surface area (sq. km),AG.SRF.TOTL.K2,..,9629090,9629090,9629090,9629090,9629090,9629090,9629090,9632030,9632030,9831510,9831510,9831510
+United States,USA,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,78.3115746,79.0071374,80.0696562,81.919472,83.523733,84.3880528,85.1105082,85.8707742,86.5192786,87.2369832,87.8254466,87.6838848,..
+United States,USA,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,63.960704,63.8942962,64.9130428,67.8552736,70.9215708,72.761791,74.1582804,76.2808644,78.1627294,79.4108596,80.3280566,80.0703962,..
+United States,USA,Taxes less subsidies on products (constant LCU),NY.TAX.NIND.KN,..,..,..,..,..,..,..,..,457517069200,507443695600,509119399000,573644732500,..
+United States,USA,Taxes less subsidies on products (current LCU),NY.TAX.NIND.CN,..,..,..,..,..,..,..,..,366923542000,471698368000,509119399000,658852270000,..
+United States,USA,Taxes less subsidies on products (current US$),NY.TAX.NIND.CD,..,..,..,..,..,..,..,..,366923542000,471698368000,509119399000,658852270000,..
+United States,USA,"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),SP.MTR.1519.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Terms of trade adjustment (constant LCU),NY.TTF.GNFS.KN,..,..,90046277848.2353,50003906373.876,-16126355805.5543,30952780572.4051,-470355222.493286,18053262714.0847,46714385096.5593,15612486868.113,0,119940768726.206,..
+United States,USA,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,..,..,..,..,..,..,..,..,..,..,..,..,26.328083601169
+United States,USA,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,..,..,..,..,..,..,..,..,..,..,..,..,12.9938720224773
+United States,USA,Textiles and clothing (% of value added in manufacturing),NV.MNF.TXTL.ZS.UN,..,8.24331503453161,7.98115791935322,6.85164598316582,6.18391998960904,5.32997470996748,4.91411455930293,4.5431412338377,3.42789346502037,2.34014414079248,1.4404187218944,1.29438475720956,..
+United States,USA,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..,..,..,..,..,..,..,..,..,9.3,..,..
+United States,USA,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",SH.ALC.PCAP.FE.LI,..,..,..,..,..,..,..,..,..,..,3.9,..,..
+United States,USA,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",SH.ALC.PCAP.MA.LI,..,..,..,..,..,..,..,..,..,..,15,..,..
+United States,USA,Total amount of debt rescheduled (current US$),DT.TXR.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Total change in external debt stocks (current US$),DT.DOD.DECT.CD.CG,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Total debt service (% of GNI),DT.TDS.DECT.GN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Total fisheries production (metric tons),ER.FSH.PROD.MT,2819044,2782558,2962979,3065741,3871666,5043441,5936132,5712653,5216830,5475187,4893331,5471445,..
+United States,USA,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,..,..,..,..,..,..,..,3.73532606698381,13.5759062341537,17.0583270936142,9.40754030412803,..,..
+United States,USA,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,..,..,5400503.5,5539255.42,5896082.8,5776897.6,6136093.5,6365296.6,6969123.8,7182808.4,6713348.96911148,..,..
+United States,USA,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,..,..,0.758283708817487,3.1490719984646,5.64081263408902,2.16124907009787,1.31607242086258,0.799438718516709,1.00479563941164,1.26377176600681,0.920308494085259,0.274436124512835,..
+United States,USA,Total reserves (% of total external debt),FI.RES.TOTL.DT.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD,19664164000,15498323200,15236515800,43154974089.341,171412607203.354,117981972231.986,173093564607.844,175995426883.436,128399516602.723,188259141662.468,488928508742.44,383728497570.133,449907088828.546
+United States,USA,Total reserves in months of imports,FI.RES.TOTL.MO,..,..,3.06878465256798,3.89280379667813,6.1616545091386,2.92483445465779,2.73557589265656,1.95523553618241,0.862473956766805,0.910714301531214,2.05129695148689,1.365709016451,1.36363201760523
+United States,USA,Total reserves minus gold (current US$),FI.RES.XGLD.CD,1554800000,1385000000,3414890000,4626896589.34101,15595967203.3543,32095422231.9859,72258214607.8445,74781404883.4358,56600377652.7229,54083715801.8481,121391806197.94,106539635766.333,114756990011.769
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,9.16620651573716,9.22414952265699,10.7582854049602,15.5163736331565,20.1098446894226,16.603906126303,19.8150673537315,22.4533816490568,25.0436352248928,25.5559940404642,28.0579522804396,27.7261402461321,..
+United States,USA,Trade in services (% of GDP),BG.GSR.NFSV.GD.ZS,..,..,2.43174574188277,2.70638564571038,3.09802201863503,3.34463476315511,4.45285238793496,4.72008962598117,4.94036220081083,5.19654595125669,6.48388194532795,6.84591705168341,6.80342635197447
+United States,USA,"Transport services (% of service exports, BoP)",BX.GSR.TRAN.ZS,..,..,32.0524017467249,29.5327903986284,29.9474237644585,26.1174120640827,25.388881374273,20.6708243420182,15.7575194054728,14.1073554171001,12.7328717952363,11.6143655683921,11.2274252546933
+United States,USA,"Transport services (% of service imports, BoP)",BM.GSR.TRAN.ZS,..,..,27.5085324232082,35.7880556802874,37.5396631681718,30.6677773150076,30.4750573638141,29.8373523796054,26.6559010924436,24.8460343372168,18.232590866114,19.7179920808501,19.072455695667
+United States,USA,"Travel services (% of service exports, BoP)",BX.GSR.TRVL.ZS,..,..,20.3493449781659,20.145735105015,22.2712933753943,28.7756693527424,34.0862978493169,34.1407800431583,34.5021385623076,27.2031935314367,24.3462530830413,27.3976375138024,25.9596722996463
+United States,USA,"Travel services (% of service imports, BoP)",BM.GSR.TRVL.ZS,..,..,27.1672354948805,28.8280197575213,25.4088357334635,34.5550465083993,32.3786861561995,32.7976097871438,30.4394297638823,26.2735218475223,21.163125349673,23.2838454220972,25.464195189362
+United States,USA,"Tuberculosis case detection rate (%, all forms)",SH.TBS.DTEC.ZS,..,..,..,..,..,..,..,..,87,87,87,87,..
+United States,USA,Tuberculosis treatment success rate (% of new cases),SH.TBS.CURE.ZS,..,..,..,..,..,..,..,..,83,83,66,83,..
+United States,USA,"Undisbursed external debt, official creditors (UND, current US$)",DT.UND.OFFT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Undisbursed external debt, private creditors (UND, current US$)",DT.UND.PRVT.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Undisbursed external debt, total (UND, current US$)",DT.UND.DPPG.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Unmet need for contraception (% of married women ages 15-49),SP.UWT.TFRT,..,..,..,..,..,..,6,..,..,..,8,..,..
+United States,USA,Urban land area (sq. km),AG.LND.TOTL.UR.K2,..,..,..,..,..,..,802053.5923,..,802053.5923,..,802053.5923,..,..
+United States,USA,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,..,..,..,..,..,..,0.187350011,..,0.187350011,..,0.187350011,..,..
+United States,USA,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,..,..,..,..,..,..,17520.22198,..,17520.22198,..,17520.22198,..,..
+United States,USA,Urban population,SP.URB.TOTL,126462473,139663053,150922373,159070594,167551171,177239105,187966119,205718394,223069137,236200507,249848865,261953748,269114845
+United States,USA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.996,71.879,73.602,73.653,73.738,74.494,75.3,77.257,79.057,79.928,80.772,81.671,82.256
+United States,USA,Urban population growth (annual %),SP.URB.GROW,2.4491044645664,1.76765328716456,1.531151622153,0.999564503181063,1.02199247812023,1.08769078654837,1.41025628541903,1.68646666337335,1.51201139138713,1.13588459113456,1.03500259439968,0.967792646638358,0.860433167185658
+United States,USA,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,..,..,..,..,..,..,2.328829426,..,2.245915061,..,2.263941857,..,..
+United States,USA,"Use of IMF credit (DOD, current US$)",DT.DOD.DIMF.CD,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Use of insecticide-treated bed nets (% of under-5 population),SH.MLR.NETS.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Vitamin A supplementation coverage rate (% of children ages 6-59 months),SN.ITK.VITA.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Wanted fertility rate (births per woman),SP.DYN.WFRT,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,"Water productivity, total (constant 2010 US$ GDP per cubic meter of total freshwater withdrawal)",ER.GDP.FWTL.M3.KD,..,..,..,..,12.5507889984544,..,19.3533241262094,..,26.6531539457233,29.9467187747597,35.8061923262479,..,..
+United States,USA,Wholesale price index (2010 = 100),FP.WPI.TOTL,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Women who were first married by age 15 (% of women ages 20-24),SP.M15.2024.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Women who were first married by age 18 (% of women ages 20-24),SP.M18.2024.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+United States,USA,Women's share of population ages 15+ living with HIV (%),SH.DYN.AIDS.FE.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,,,
+Last Updated: 09/24/2019,,,,,,,,,,,,,,,,
